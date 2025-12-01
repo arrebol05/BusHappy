@@ -1,0 +1,12 @@
+Flask==3.0.0
+flask-cors==4.0.0
+pandas==2.1.4
+numpy==1.26.2
+tqdm==4.66.1
+requests==2.31.0
+beautifulsoup4==4.12.2
+lxml==4.9.3
+
+# Optional GPU acceleration (install only if you have CUDA-compatible GPU)
+# cupy-cuda11x  # For CUDA 11.x
+# cupy-cuda12x  # For CUDA 12.x

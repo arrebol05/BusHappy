@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="BusHappy Admin Dashboard - Bus System Design and Schedule Management">
+    <title>🚌 BusHappy - Admin Dashboard</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+</head>
+
+<body>
+    <div id="dashboard-app">
+        <!-- Header -->
+        <header class="dashboard-header">
+            <div class="header-content">
+                <div class="header-left">
+                    <h1 class="dashboard-title">🚌 BusHappy Admin Dashboard</h1>
+                    <p class="dashboard-subtitle">Bus System Design & Management</p>
+                </div>
+                <div class="header-right">
+                    <button id="save-plan-btn" class="btn btn-success" disabled>
+                        💾 Save Plan
+                    </button>
+                </div>
+            </div>
+        </header>
+
+        <!-- Main Container -->
+        <div class="dashboard-container">
+            <!-- Left Panel - Controls -->
+            <aside class="control-panel">
+                <!-- Mode Switcher -->
+                <div class="panel-section">
+                    <h2 class="section-title">Dashboard Mode</h2>
+                    <div class="mode-switcher">
+                        <button class="mode-btn" id="mode-schedule-btn">
+                            📅 Adjust Schedule
+                        </button>
+                        <button class="mode-btn active" id="mode-design-btn">
+                            🗺️ Design System
+                        </button>
+                        <button class="mode-btn" id="mode-disability-btn">
+                            ♿ Disability Routes
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Schedule Mode Content (Placeholder) -->
+                <div id="schedule-mode-content" class="mode-content" style="display: none;">
+                    <div class="panel-section">
+                        <h3 class="section-subtitle">Schedule Adjustment</h3>
+                        <p class="placeholder-text">⏰ Schedule adjustment features coming soon...</p>
+                    </div>
+                    <div class="panel-section">
+                        <button class="btn btn-warning btn-block" id="reset-schedule-sandbox-btn">
+                            🔄 Reset Sandbox
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Disability Mode Content -->
+                <div id="disability-mode-content" class="mode-content" style="display: none;">
+                    <!-- Environment Indicator -->
+                    <div class="panel-section"
+                        style="background: #fff3cd; border: 1px solid #ffc107; padding: 0.75rem; border-radius: 0.375rem; margin-bottom: 1rem;">
+                        <div style="display: flex; align-items: center; justify-content: space-between;">
+                            <div>
+                                <strong style="color: #856404;">🧪 Sandbox Mode</strong>
+                                <p style="margin: 0.25rem 0 0 0; font-size: 0.75rem; color: #856404;">
+                                    Safe to modify disability support
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Disability Mode Buttons -->
+                    <div class="panel-section">
+                        <div style="display: flex; flex-direction: column; gap: 0.5rem;">
+                            <button class="btn btn-primary" id="run-disability-optimization-btn">
+                                🚀 Run Optimization
+                            </button>
+                            <button class="btn btn-success" id="apply-disability-optimization-btn"
+                                style="display: none;">
+                                ✅ Apply Recommendations
+                            </button>
+                            <button class="btn btn-secondary" id="export-disability-results-btn">
+                                📥 Export Results
+                            </button>
+                            <button class="btn btn-warning" id="reset-disability-sandbox-btn">
+                                🔄 Reset Sandbox
+                            </button>
+                        </div>
+                    </div> <!-- Real-time Metrics -->
+                    <div class="panel-section">
+                        <h3 class="section-subtitle">Real-time Metrics</h3>
+                        <div class="stats-grid">
+                            <div class="stat-item">
+                                <div class="stat-label">Coverage (500m)</div>
+                                <div class="stat-value" id="metric-coverage-pct">-</div>
+                            </div>
+                            <div class="stat-item">
+                                <div class="stat-label">Avg Distance</div>
+                                <div class="stat-value" id="metric-avg-distance">-</div>
+                            </div>
+                            <div class="stat-item">
+                                <div class="stat-label">Min Distance</div>
+                                <div class="stat-value" id="metric-min-distance">-</div>
+                            </div>
+                            <div class="stat-item">
+                                <div class="stat-label">Max Distance</div>
+                                <div class="stat-value" id="metric-max-distance">-</div>
+                            </div>
+                        </div>
+                        <div
+                            style="margin-top: 0.75rem; padding: 0.5rem; background: #f7fafc; border-radius: 0.25rem; font-size: 0.75rem; color: #4a5568;">
+                            <div><strong>Supported Stops:</strong> <span id="metric-supported-stops">-</span></div>
+                            <div><strong>Unsupported Stops:</strong> <span id="metric-unsupported-stops">-</span></div>
+                            <div><strong>Total Stops:</strong> <span id="metric-total-stops">-</span></div>
+                        </div>
+                    </div>
+
+                    <!-- Disability Support Stats -->
+                    <div class="panel-section">
+                        <h3 class="section-subtitle">Disability Support Overview</h3>
+                        <div class="stats-grid">
+                            <div class="stat-item">
+                                <div class="stat-label">With Support</div>
+                                <div class="stat-value" id="stat-disability-supported">-</div>
+                            </div>
+                            <div class="stat-item">
+                                <div class="stat-label">Need Upgrade</div>
+                                <div class="stat-value" id="stat-disability-needed">-</div>
+                            </div>
+                            <div class="stat-item">
+                                <div class="stat-label">Coverage</div>
+                                <div class="stat-value" id="stat-disability-coverage">-</div>
+                            </div>
+                            <div class="stat-item">
+                                <div class="stat-label">Avg Distance</div>
+                                <div class="stat-value" id="stat-disability-distance">-</div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Optimization Controls -->
+                    <div class="panel-section">
+                        <h3 class="section-subtitle">Auto Optimization</h3>
+                        <p style="margin-bottom: 1rem; font-size: 0.875rem; color: #666;">
+                            Find minimal stops to upgrade for maximum disability support coverage.
+                            Existing disability-supported stops will be preserved.
+                        </p>
+
+                        <div style="margin-bottom: 1rem;">
+                            <label style="display: block; margin-bottom: 0.5rem; font-weight: 600;">
+                                Max Walking Distance:
+                            </label>
+                            <input type="number" id="disability-max-distance" value="500" min="100" max="1000" step="50"
+                                style="width: 100%; padding: 0.5rem; border: 1px solid #e2e8f0; border-radius: 0.375rem;">
+                            <span style="font-size: 0.75rem; color: #666;">meters (~6-7 min walk at 500m)</span>
+                        </div>
+
+                        <div style="margin-bottom: 1rem;">
+                            <label style="display: block; margin-bottom: 0.5rem; font-weight: 600;">
+                                Target Coverage:
+                            </label>
+                            <input type="number" id="disability-target-coverage" value="95" min="80" max="100" step="5"
+                                style="width: 100%; padding: 0.5rem; border: 1px solid #e2e8f0; border-radius: 0.375rem;">
+                            <span style="font-size: 0.75rem; color: #666;">% of stops within max distance</span>
+                        </div>
+                    </div>
+
+                    <!-- Optimization Results -->
+                    <div class="panel-section" id="disability-results-section" style="display: none;">
+                        <h3 class="section-subtitle">Optimization Results</h3>
+                        <div id="disability-results-content"></div>
+                    </div>
+
+                    <!-- Legend -->
+                    <div class="panel-section">
+                        <h3 class="section-subtitle">Map Legend</h3>
+                        <div style="font-size: 0.875rem;">
+                            <div style="margin-bottom: 0.5rem;">
+                                <span style="color: #2ecc71; font-size: 1.25rem;">●</span> Already has disability
+                                support
+                            </div>
+                            <div style="margin-bottom: 0.5rem;">
+                                <span style="color: #3498db; font-size: 1.25rem;">●</span> Recommended for upgrade
+                            </div>
+                            <div style="margin-bottom: 0.5rem;">
+                                <span style="color: #e74c3c; font-size: 1.25rem;">●</span> No disability support
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Design Mode Content -->
+                <div id="design-mode-content" class="mode-content">
+                    <!-- Overall System Stats -->
+                    <div class="panel-section">
+                        <h3 class="section-subtitle">System Overview</h3>
+                        <div class="stats-grid">
+                            <div class="stat-item">
+                                <div class="stat-label">Total Routes</div>
+                                <div class="stat-value" id="stat-total-routes">-</div>
+                            </div>
+                            <div class="stat-item">
+                                <div class="stat-label">Total Stops</div>
+                                <div class="stat-value" id="stat-total-stops">-</div>
+                            </div>
+                            <div class="stat-item">
+                                <div class="stat-label">Avg Route Length</div>
+                                <div class="stat-value" id="stat-avg-length">-</div>
+                            </div>
+                            <div class="stat-item">
+                                <div class="stat-label">Coverage Area</div>
+                                <div class="stat-value" id="stat-coverage">-</div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Route Legend -->
+                    <div class="panel-section">
+                        <h3 class="section-subtitle">Route Legend</h3>
+                        <div class="route-legend" id="route-legend">
+                            <div class="loading-state">Loading routes...</div>
+                        </div>
+                    </div>
+
+                    <!-- Selected Route Info -->
+                    <div class="panel-section" id="route-info-section" style="display: none;">
+                        <h3 class="section-subtitle">Selected Route</h3>
+                        <div class="route-info">
+                            <div class="route-header">
+                                <h4 class="route-name" id="selected-route-name">-</h4>
+                                <button class="btn-icon" id="deselect-route-btn" title="Show all routes">✕</button>
+                            </div>
+                            <div class="route-stats">
+                                <div class="stat-row">
+                                    <span class="stat-label">Route Number:</span>
+                                    <span class="stat-value" id="route-number">-</span>
+                                </div>
+                                <div class="stat-row">
+                                    <span class="stat-label">Outbound Stops:</span>
+                                    <span class="stat-value" id="route-outbound-stops">-</span>
+                                </div>
+                                <div class="stat-row">
+                                    <span class="stat-label">Inbound Stops:</span>
+                                    <span class="stat-value" id="route-inbound-stops">-</span>
+                                </div>
+                                <div class="stat-row">
+                                    <span class="stat-label">Total Length:</span>
+                                    <span class="stat-value" id="route-length">-</span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Route Operations -->
+                        <div class="route-operations">
+                            <h4 class="operation-title">Route Operations</h4>
+                            <div class="operation-buttons">
+                                <button class="btn btn-primary btn-block" id="edit-stops-btn">
+                                    ✏️ Edit Stops
+                                </button>
+                                <button class="btn btn-success btn-block" id="add-stop-btn">
+                                    ➕ Add Stop
+                                </button>
+                                <button class="btn btn-danger btn-block" id="remove-stop-btn">
+                                    ➖ Remove Stop
+                                </button>
+                                <button class="btn btn-warning btn-block" id="optimize-route-btn">
+                                    🔧 Auto Optimize
+                                </button>
+                            </div>
+                        </div>
+
+                        <!-- Change Summary -->
+                        <div class="change-summary" id="change-summary" style="display: none;">
+                            <h4 class="operation-title">Proposed Changes</h4>
+                            <div class="changes-list" id="changes-list"></div>
+                            <div class="impact-stats">
+                                <div class="impact-item improvement">
+                                    <span class="impact-label">Improvements:</span>
+                                    <span class="impact-value" id="improvements-value">-</span>
+                                </div>
+                                <div class="impact-item decrease">
+                                    <span class="impact-label">Decreases:</span>
+                                    <span class="impact-value" id="decreases-value">-</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- System-wide Operations -->
+                    <div class="panel-section">
+                        <h3 class="section-subtitle">System Operations</h3>
+                        <div style="display: flex; flex-direction: column; gap: 0.5rem;">
+                            <button class="btn btn-warning btn-block" id="optimize-system-btn">
+                                🚀 Auto Optimize Entire System
+                            </button>
+                            <button class="btn btn-warning btn-block" id="reset-design-sandbox-btn">
+                                🔄 Reset Sandbox
+                            </button>
+                        </div>
+                        <p class="warning-text">
+                            ⚠️ Warning: Auto optimization may remove existing stops to improve efficiency
+                        </p>
+                    </div>
+                </div>
+            </aside>
+
+            <!-- Right Panel - Map -->
+            <main class="map-panel">
+                <div id="dashboard-map"></div>
+
+                <!-- Map Controls Overlay -->
+                <div class="map-controls">
+                    <button class="map-control-btn" id="reset-view-btn" title="Reset View">
+                        🔄
+                    </button>
+                    <button class="map-control-btn" id="toggle-labels-btn" title="Toggle Labels">
+                        🏷️
+                    </button>
+                </div>
+            </main>
+        </div>
+    </div>
+
+    <!-- Edit Stop Modal -->
+    <div id="edit-modal" class="modal" style="display: none;">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3 class="modal-title" id="modal-title">Edit Stops</h3>
+                <button class="btn-icon" id="close-modal-btn">✕</button>
+            </div>
+            <div class="modal-body" id="modal-body">
+                <!-- Dynamic content will be inserted here -->
+            </div>
+            <div class="modal-footer">
+                <button class="btn btn-secondary" id="cancel-modal-btn">Cancel</button>
+                <button class="btn btn-primary" id="apply-modal-btn">Apply Changes</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Vite entry point -->
+    <script type="module" src="/src/dashboard/main.ts"></script>
+</body>
+
+</html>

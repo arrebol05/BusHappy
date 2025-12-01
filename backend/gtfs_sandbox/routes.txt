@@ -1,0 +1,31 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+1,HCMC_BUS,1,Bến Thành - Bến xe buýt Chợ Lớn,Bến xe buýt Chợ Lớn¿ ↔ Bến Thành¿,3,,FFB07C,000000
+4,HCMC_BUS,4,Bến Thành - Cộng Hòa - Bến xe An Sương,Bến xe An Sương¿ ↔ Bến Thành¿,3,,0504AA,000000
+6,HCMC_BUS,6,Bến xe buýt Chợ Lớn - Đại học Nông Lâm,Đại học Nông Lâm¿ ↔ Bến xe buýt Chợ Lớn¿,3,,7E1E9C,000000
+9,HCMC_BUS,9,Bến xe buýt Chợ Lớn - Bình Chánh - Hưng Long,Hưng Long¿ ↔ Bến xe buýt Chợ Lớn¿,3,,0504AA,000000
+42,HCMC_BUS,20,Bến Thành - Nhà Bè,Nhà Bè¿ ↔ Bến Thành¿,3,,000080,000000
+50,HCMC_BUS,29,Phà Cát Lái - Chợ nông sản Thủ Đức,Chợ nông sản Thủ Đức¿ ↔ Phà Cát Lái¿,3,,13EAC9,000000
+62,HCMC_BUS,41,Bến xe Miền Tây - Ngã tư Bốn Xã - Bến xe An Sương,Bến xe An Sương¿ ↔ Bến xe Miền Tây¿,3,,C20078,000000
+65,HCMC_BUS,44,Cảng Quận 4 - Bình Quới,Bình Quới¿ ↔ Cảng Quận 4¿,3,,FFB07C,000000
+68,HCMC_BUS,47,Bến xe buýt Chợ Lớn - Quốc lộ 50 - Hưng Long,Hưng Long¿ ↔ Bến xe buýt Chợ Lớn¿,3,,F97306,000000
+77,HCMC_BUS,57,Chợ Phước Bình - Trường Trung học Phổ thông Hiệp Bình,Trường Trung học Phổ thông Hiệp Bình¿ ↔ Chợ Phước Bình¿,3,,9A0EEA,000000
+84,HCMC_BUS,61,Bến xe buýt Chợ Lớn - Khu công nghiệp Lê Minh Xuân,Khu công nghiệp Lê Minh Xuân¿ ↔ Bến xe buýt Chợ Lớn¿,3,,FFB07C,000000
+91,HCMC_BUS,62,Bến xe buýt Quận 8 - Thới An,Thới An¿ ↔ Bến xe buýt Quận 8¿,3,,C20078,000000
+102,HCMC_BUS,65,Bến Thành - Cách Mạng Tháng Tám - Bến xe An Sương,Bến xe An Sương¿ ↔ Bến Thành¿,3,,0343DF,000000
+105,HCMC_BUS,69,Bến xe buýt Sài Gòn - Khu dân cư Vĩnh Lộc,Khu dân cư Vĩnh Lộc¿ ↔ Bến xe buýt Sài Gòn¿,3,,75BBFD,000000
+112,HCMC_BUS,72,Bến xe buýt Sài Gòn - Hiệp Phước,Hiệp Phước¿ ↔ Bến xe buýt Sài Gòn¿,3,,8E82FE,000000
+113,HCMC_BUS,73,Chợ Bình Chánh - Khu công nghiệp Lê Minh Xuân,Khu công nghiệp Lê Minh Xuân¿ ↔ Chợ Bình Chánh¿,3,,FF796C,000000
+114,HCMC_BUS,74,Bến xe An Sương - Bến xe Củ Chi,Bến xe Củ Chi¿ ↔ Bến xe An Sương¿,3,,AD8150,000000
+116,HCMC_BUS,76,Long Phước - Bến xe Miền Đông mới,Bến xe Miền Đông mới¿ ↔ Long Phước¿,3,,FF0000,000000
+121,HCMC_BUS,81,Bến xe buýt Chợ Lớn - Lê Minh Xuân,Lê Minh Xuân¿ ↔ Bến xe buýt Chợ Lớn¿,3,,53FCA1,000000
+124,HCMC_BUS,84,Bến xe buýt Chợ Lớn - Tân Túc,Tân Túc¿ ↔ Bến xe buýt Chợ Lớn¿,3,,15B01A,000000
+128,HCMC_BUS,88,Bến Thành - Chợ Long Phước,Chợ Long Phước¿ ↔ Bến Thành¿,3,,0343DF,000000
+133,HCMC_BUS,93,Bến Thành - Bến xe Miền Đông mới,Bến xe Miền Đông mới¿ ↔ Bến Thành¿,3,,CEB301,000000
+137,HCMC_BUS,99,Chợ Thạnh Mỹ Lợi - Đại học Quốc gia,Đại học Quốc gia¿ ↔ Chợ Thạnh Mỹ Lợi¿,3,,FF028D,000000
+13,HCMC_BUS,102,Bến xe buýt Sài Gòn - Nguyễn Văn Linh - Bến xe Miền Tây,Bến xe Miền Tây¿ ↔ Bến xe buýt Sài Gòn¿,3,,FF81C0,000000
+14,HCMC_BUS,103,Bến xe buýt Chợ Lớn - Bến xe Ngã tư Ga,Bến xe Ngã tư Ga¿ ↔ Bến xe buýt Chợ Lớn¿,3,,FFB07C,000000
+28,HCMC_BUS,141,Khu du lịch BCR - Long Trường - Khu chế xuất Linh Trung II,Khu chế xuất Linh Trung II¿ ↔ Khu du lịch BCR¿,3,,15B01A,000000
+31,HCMC_BUS,146,Bến xe Miền Đông - Chợ Hiệp Thành,Chợ Hiệp Thành¿ ↔ Bến xe Miền Đông¿,3,,01FF07,000000
+36,HCMC_BUS,151,Bến xe Miền Tây - Bến xe An Sương,Bến xe An Sương¿ ↔ Bến xe Miền Tây¿,3,,333333,000000
+375,HCMC_BUS,153,Bến tàu thủy Bình An – Đường Liên Phường,Lượt đi: Bến tàu thủy Bình An – Đường Liên Phường¿ ↔ Lượt về: Đường Liên Phường - Bến tàu thủy Bình An¿,3,,99CCFF,000000
+364,HCMC_BUS,161,Bến xe buýt Văn Thánh – Bến xe Ngã tư Ga,Lượt đi: Bến xe Văn Thánh - Bến xe Ngã tư Ga¿ ↔ Lượt về: Bến xe Ngã tư Ga - Bến xe Văn Thánh¿,3,,FF00FF,000000

@@ -1,0 +1,475 @@
+<!DOCTYPE html>
+<html lang="en-US">
+ <head id="Head">
+  <!--*********************************************-->
+  <!-- DNN Platform - http://www.dnnsoftware.com   -->
+  <!-- Copyright (c) 2002-2015, by DNN Corporation -->
+  <!--*********************************************-->
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <title>
+   Route details
+  </title>
+  <meta content=",DotNetNuke,DNN" id="MetaKeywords" name="KEYWORDS"/>
+  <meta content="DotNetNuke " id="MetaGenerator" name="GENERATOR"/>
+  <meta content="INDEX, FOLLOW" id="MetaRobots" name="ROBOTS"/>
+  <link href="/Resources/Shared/stylesheets/dnndefault/7.0.0/default.css?cdv=167" rel="stylesheet" type="text/css"/>
+  <link href="/DesktopModules/iBus_RouteDetail/module.css?cdv=167" rel="stylesheet" type="text/css"/>
+  <link href="/Portals/_default/Skins/NewsTwo/skin.css?cdv=167" rel="stylesheet" type="text/css"/>
+  <link href="/Portals/_default/Containers/NewsTwo/container.css?cdv=167" rel="stylesheet" type="text/css"/>
+  <link href="/Portals/0/portal.css?cdv=167" rel="stylesheet" type="text/css"/>
+  <link href="/Resources/Shared/scripts/cms/Leaflet/leaflet.css?cdv=167" rel="stylesheet" type="text/css"/>
+  <link href="/Resources/Shared/scripts/cms/Map/L.Search.css?cdv=167" rel="stylesheet" type="text/css"/>
+  <link href="/Resources/Shared/scripts/cms/Map/L.Control.Locate.css?cdv=167" rel="stylesheet" type="text/css"/>
+  <link href="/Resources/Shared/stylesheets/cms/map.css?cdv=167" rel="stylesheet" type="text/css"/>
+  <link href="/Resources/Shared/stylesheets/cms/rouVar.css?cdv=167" rel="stylesheet" type="text/css"/>
+  <script src="/Resources/libraries/jQuery/01_09_01/jquery.js?cdv=167" type="text/javascript">
+  </script>
+  <script src="/Resources/libraries/jQuery-UI/01_11_03/jquery-ui.js?cdv=167" type="text/javascript">
+  </script>
+  <link href="/Portals/_default/Skins/NewsTwo/bootstrap/bootstrap.ex.css" id="BootstrapCSS" rel="stylesheet" type="text/css"/>
+  <link href="/Portals/_default/Skins/NewsTwo/common/base.css" id="NewsTwoSkinBase" rel="stylesheet" type="text/css"/>
+  <link href="/Portals/_default/Skins/NewsTwo/common/base.ex.css" id="NewsTwoSkinBaseEx" rel="stylesheet" type="text/css"/>
+  <link href="/Portals/_default/Skins/NewsTwo/common/cms.css" id="NewsTwoSkinCMS" rel="stylesheet" type="text/css"/>
+  <link href="/Resources/Shared/stylesheets/cms/jquery/jquery-ui.css" id="jquery_ui" rel="stylesheet" type="text/css"/>
+  <link href="/Resources/Shared/stylesheets/cms/jquery/jquery-ui.ex.css" id="jquery_ui_ex" rel="stylesheet" type="text/css"/>
+  <link href="../css/font-awesome-4.5.0/css/font-awesome.min.css" rel="stylesheet"/>
+  <script type="text/javascript">
+   var _gaq = _gaq || [];
+			      _gaq.push(['_setAccount', 'UA-120855772-1']);
+			      _gaq.push(['_trackPageview']);
+			      
+			 
+			      (function() {
+				    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+				    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			      })();
+  </script>
+  <link href="/Portals/0/bus.ico?ver=2016-03-01-150953-520" rel="SHORTCUT ICON" type="image/x-icon"/>
+  <meta content="width=device-width,initial-scale=1,maximum-scale=2" name="viewport"/>
+ </head>
+ <body id="Body">
+  <form action="/en-us/RouteDetail?rId=1&amp;sP=Route" enctype="multipart/form-data" id="Form" method="post">
+   <div class="aspNetHidden">
+    <input id="StylesheetManager_TSSM" name="StylesheetManager_TSSM" type="hidden" value=""/>
+    <input id="ScriptManager_TSM" name="ScriptManager_TSM" type="hidden" value=""/>
+    <input id="__EVENTTARGET" name="__EVENTTARGET" type="hidden" value=""/>
+    <input id="__EVENTARGUMENT" name="__EVENTARGUMENT" type="hidden" value=""/>
+    <input id="__VIEWSTATE" name="__VIEWSTATE" type="hidden" value="8aeoeITx4KyHtNaWbAjBBsGqjko5Xvaladq4B2OaaXBZlWq9Bs/0x7D/KH/DBPJUe53kL4TRo/k1gcAmxmp9L1zRLA3RVu5kUky5z+CZg0e/VMnZrLXkJ6+YAlE9TSNsIaMuMEKniXfukCmQnJIib942cFI7L8CHeO3U+6U/3dglFmKfx8mI0HsUOlXnkBAcsmI4ghHEE1JfWWAqor7hP2YsSnVTEi/kDROISlGOoNgazS5gqh79mnah9/6a9GldvYk/YNpMGTX6sAt6bg0yjg4tfBw="/>
+   </div>
+   <script type="text/javascript">
+    //<![CDATA[
+var theForm = document.forms['Form'];
+if (!theForm) {
+    theForm = document.Form;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+   </script>
+   <script src="/WebResource.axd?d=pynGkmcFUV0hRwBNLpb9KYiWfivpjbyOzjNIptsXPNfbdaELYKbZR7C82X81&amp;t=637814905746327080" type="text/javascript">
+   </script>
+   <script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ScriptManager_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen-US%3a9ddf364d-d65d-4f01-a69e-8b015049e026%3aea597d4b%3ab25378d2" type="text/javascript">
+   </script>
+   <div class="aspNetHidden">
+    <input id="__VIEWSTATEGENERATOR" name="__VIEWSTATEGENERATOR" type="hidden" value="CA0B0334"/>
+    <input id="__VIEWSTATEENCRYPTED" name="__VIEWSTATEENCRYPTED" type="hidden" value=""/>
+    <input id="__EVENTVALIDATION" name="__EVENTVALIDATION" type="hidden" value="4nQQ5eWBZh/VLta4hwyMNlRlusVZfJkhbMexvQDgvOuANMKtQuOUi/ZiGOtS53jmYSBGJC4ZMymha8e+yh95grAe3YPvEq6Jfuxuen4Fpd2EF1G4"/>
+   </div>
+   <script src="/js/dnn.modalpopup.js?cdv=167" type="text/javascript">
+   </script>
+   <script src="/js/dnncore.js?cdv=167" type="text/javascript">
+   </script>
+   <script src="/Resources/Shared/scripts/cms/common.js?cdv=167" type="text/javascript">
+   </script>
+   <script src="/Resources/Shared/scripts/cms/fulltextSearch.js?cdv=167" type="text/javascript">
+   </script>
+   <script src="/Resources/Shared/scripts/cms/Leaflet/leaflet.js?cdv=167" type="text/javascript">
+   </script>
+   <script src="/Resources/Shared/scripts/cms/Map/L.Resource.en-us.js?cdv=167" type="text/javascript">
+   </script>
+   <script src="/Resources/Shared/scripts/cms/Map/L.Config.js?cdv=167" type="text/javascript">
+   </script>
+   <script src="/Resources/Shared/scripts/cms/Map/L.Constants.js?cdv=167" type="text/javascript">
+   </script>
+   <script src="/Resources/Shared/scripts/cms/Map/L.PopupBase.js?cdv=167" type="text/javascript">
+   </script>
+   <script src="/Resources/Shared/scripts/cms/Map/L.MarkerBase.js?cdv=167" type="text/javascript">
+   </script>
+   <script src="/Resources/Shared/scripts/cms/Map/L.MarkerStop.js?cdv=167" type="text/javascript">
+   </script>
+   <script src="/Resources/Shared/scripts/cms/Map/L.MarkerStopArround.js?cdv=167" type="text/javascript">
+   </script>
+   <script src="/Resources/Shared/scripts/cms/Map/L.PolylineBase.js?cdv=167" type="text/javascript">
+   </script>
+   <script src="/Resources/Shared/scripts/cms/Map/L.LayerGroupBase.js?cdv=167" type="text/javascript">
+   </script>
+   <script src="/Resources/Shared/scripts/cms/Map/search/L.GeoSearch.Provider.Google.js?cdv=167" type="text/javascript">
+   </script>
+   <script src="/Resources/Shared/scripts/cms/Map/L.Search.js?cdv=167" type="text/javascript">
+   </script>
+   <script src="/Resources/Shared/scripts/cms/Map/L.Control.Locate.js?cdv=167" type="text/javascript">
+   </script>
+   <script src="/Resources/Shared/scripts/cms/Map/L.MapBase.js?cdv=167" type="text/javascript">
+   </script>
+   <script src="/Resources/Shared/scripts/cms/Map/L.RouteMap.js?cdv=167" type="text/javascript">
+   </script>
+   <script src="/DesktopModules/iBus_RouteDetail/routevar.js?cdv=167" type="text/javascript">
+   </script>
+   <script src="/DesktopModules/iBus_RouteDetail/timetable.js?cdv=167" type="text/javascript">
+   </script>
+   <script src="/DesktopModules/iBus_RouteDetail/module.js?cdv=167" type="text/javascript">
+   </script>
+   <script type="text/javascript">
+    //<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ScriptManager', 'Form', [], [], [], 90, '');
+//]]>
+   </script>
+   <div class="EasyDNNSkin_NewsTwo">
+    <div class="NewsTwoBackgroundGradient">
+     <div class="NewsTwoMain">
+      <div class="header">
+       <div class="logo">
+        <a href="http://buyttphcm.com.vn/en-us" id="dnn_dnnLogo_hypLogo" title="Ho Chi Minh City Department of Construction&lt;br /&gt;Ho Chi Minh City Management Centre of Public Transport (MCPT)">
+         <img alt="Ho Chi Minh City Department of Construction&lt;br /&gt;Ho Chi Minh City Management Centre of Public Transport (MCPT)" id="dnn_dnnLogo_imgLogo" src="/Portals/0/Images/logoTT.png?ver=2016-09-23-113150-000"/>
+        </a>
+       </div>
+       <div class="portalName">
+        Ho Chi Minh City Department of Construction
+        <br/>
+        Ho Chi Minh City Management Centre of Public Transport (MCPT)
+       </div>
+       <div class="login-language-social-container">
+        <div class="language">
+         <div class="language-object">
+          <span class="language">
+           <a href="http://buyttphcm.com.vn/RouteDetail?rId=1&amp;sP=Route">
+            Tiếng Việt (Việt Nam)
+           </a>
+          </span>
+          <span class="language">
+           |
+          </span>
+          <span class="language selected">
+           English (United States)
+          </span>
+         </div>
+        </div>
+        <div class="social-links">
+         <a class="facebook" href="https://www.facebook.com/BU%C3%9DT-TH%C3%80NH-PH%E1%BB%90-170210696464349/" target="facebook" title="Facebook">
+          <span>
+           Facebook
+          </span>
+         </a>
+        </div>
+       </div>
+       <div>
+       </div>
+       <div class="clear">
+       </div>
+       <nav class="navbar navbar-inverse main-menu">
+        <div class="navbar-header">
+         <button aria-controls="navbar" aria-expanded="false" class="navbar-toggle collapsed" data-target="#navbar" data-toggle="collapse" type="button">
+          <span class="icon-bar">
+          </span>
+          <span class="icon-bar">
+          </span>
+          <span class="icon-bar">
+          </span>
+         </button>
+        </div>
+        <div aria-expanded="false" class="navbar-collapse collapse" id="navbar" style="height: 1px;">
+         <ul class="nav navbar-nav">
+          <li class="">
+           <a class="" href="http://buyttphcm.com.vn/en-us/Home">
+            Home
+           </a>
+          </li>
+          <li class="dropdown">
+           <a class="dropdown-toggle" data-toggle="dropdown" href="http://buyttphcm.com.vn/en-us/About">
+            About Us
+            <b class="caret">
+            </b>
+           </a>
+           <ul class="dropdown-menu">
+            <li class="">
+             <a href="http://buyttphcm.com.vn/en-us/About_Us">
+              General Information
+             </a>
+            </li>
+            <li class="">
+             <a href="http://buyttphcm.com.vn/en-us/Mandate">
+              Role and Mission
+             </a>
+            </li>
+            <li class="">
+             <a href="http://buyttphcm.com.vn/en-us/OrgChart">
+              Organizational Chart
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class="active">
+           <a class="" href="http://buyttphcm.com.vn/en-us/Route">
+            Routes
+           </a>
+          </li>
+          <li class="">
+           <a class="" href="http://buyttphcm.com.vn/en-us/Prediction">
+            Bus Arrival Time
+           </a>
+          </li>
+          <li class="">
+           <a class="" href="http://buyttphcm.com.vn/en-us/RouteFinding">
+            Way by Bus
+           </a>
+          </li>
+          <li class="">
+           <a class="" href="http://buyttphcm.com.vn/en-us/Feedback">
+            Feedback
+           </a>
+          </li>
+         </ul>
+        </div>
+        <!--/.nav-collapse -->
+       </nav>
+      </div>
+      <div class="content-top-wraper">
+       <div id="dnn_ContentTop">
+        <div class="DnnModule DnnModule-iBus_RouteDetail DnnModule-6617">
+         <a name="6617">
+         </a>
+         <div class="eds_containers_NewsTwo eds_templateGroup_default eds_template_Default">
+          <h2>
+           <span class="Head" id="dnn_ctr6617_dnnTITLE_titleLabel">
+            Route details
+           </span>
+          </h2>
+          <div id="dnn_ctr6617_ContentPane">
+           <!-- Start_Module_6617 -->
+           <div class="DNNModuleContent ModiBusRouteDetailC" id="dnn_ctr6617_ModuleContent">
+            <!--CDF(Css|/Resources/Shared/scripts/cms/Leaflet/leaflet.css?cdv=167)-->
+            <!--CDF(Css|/Resources/Shared/scripts/cms/Map/L.Search.css?cdv=167)-->
+            <!--CDF(Css|/Resources/Shared/scripts/cms/Map/L.Control.Locate.css?cdv=167)-->
+            <!--CDF(Css|/Resources/Shared/stylesheets/cms/map.css?cdv=167)-->
+            <!--CDF(Css|/Resources/Shared/stylesheets/cms/rouVar.css?cdv=167)-->
+            <!--CDF(Javascript|/Resources/Shared/scripts/cms/Leaflet/leaflet.js?cdv=167)-->
+            <!--CDF(Javascript|/Resources/Shared/scripts/cms/Map/L.Resource.en-us.js?cdv=167)-->
+            <!--CDF(Javascript|/Resources/Shared/scripts/cms/Map/L.Config.js?cdv=167)-->
+            <!--CDF(Javascript|/Resources/Shared/scripts/cms/Map/L.Constants.js?cdv=167)-->
+            <!--CDF(Javascript|/Resources/Shared/scripts/cms/Map/L.PopupBase.js?cdv=167)-->
+            <!--CDF(Javascript|/Resources/Shared/scripts/cms/Map/L.MarkerBase.js?cdv=167)-->
+            <!--CDF(Javascript|/Resources/Shared/scripts/cms/Map/L.MarkerStop.js?cdv=167)-->
+            <!--CDF(Javascript|/Resources/Shared/scripts/cms/Map/L.MarkerStopArround.js?cdv=167)-->
+            <!--CDF(Javascript|/Resources/Shared/scripts/cms/Map/L.PolylineBase.js?cdv=167)-->
+            <!--CDF(Javascript|/Resources/Shared/scripts/cms/Map/L.LayerGroupBase.js?cdv=167)-->
+            <!--CDF(Javascript|/Resources/Shared/scripts/cms/Map/search/L.GeoSearch.Provider.Google.js?cdv=167)-->
+            <!--CDF(Javascript|/Resources/Shared/scripts/cms/Map/L.Search.js?cdv=167)-->
+            <!--CDF(Javascript|/Resources/Shared/scripts/cms/Map/L.Control.Locate.js?cdv=167)-->
+            <!--CDF(Javascript|/Resources/Shared/scripts/cms/Map/L.MapBase.js?cdv=167)-->
+            <!--CDF(Javascript|/Resources/Shared/scripts/cms/Map/L.RouteMap.js?cdv=167)-->
+            <!--CDF(Javascript|/DesktopModules/iBus_RouteDetail/routevar.js?cdv=167)-->
+            <!--CDF(Javascript|/DesktopModules/iBus_RouteDetail/timetable.js?cdv=167)-->
+            <!--CDF(Javascript|/DesktopModules/iBus_RouteDetail/module.js?cdv=167)-->
+            <script src="Resources/Shared/scripts/cms/Map/L.Resource.en-US.js" type="text/javascript">
+            </script>
+            <script lang="ja" type="text/javascript">
+             var rouId = '1',
+        CLIENT_MODULEID = "dnn_ctr{0}_dnnTITLE_titleLabel".format("6617");
+
+	var RES_TITLE_DEFAULT = "Route details",
+        RES_TITLE_TEXT = "Route <span class='cms-highlight'>{0}: {1}</span>",
+        RES_NO_DATA = "<div class='cms-msg'>No data to display!</div>",
+        RES_ROU_CODE = "Route code:",
+        RES_ROU_NAME = "Route name:",
+        RES_VAR_NAME = "To {0}:",
+
+		RES_ROU_FARE = "Fare price: {0}",
+        RES_ROU_TYPE = "Route type: {0}",
+        RES_ROU_DISTANCE = "Distance: {0}",
+        RES_ROU_VEHICLE = "Vehicle type: {0} seats",
+        RES_ROU_TIME = "Operation time: {0}",
+        RES_ROU_TRIPS = "Total trips: {0}",
+        RES_ROU_TRIP_TIME = "Trip time: {0} minutes",
+        RES_ROU_TRIP_SPACING = "Trip spacing: {0} minutes",
+        RES_ROU_AGENCY = "Agencies:",
+        RES_ROU_VAR_TITLE = "To {0}",
+        RES_TIMETABLE_TITLE = "To {0} ({1}, Apply from {2})",
+        RES_TRIP_PER_DAY = "Trip/day";
+    RES_TRIP = "Trip";
+    RES_TIMETABLE_FOR = "TimeTable for: {0}";
+    RES_APPLY_FROM_DATE = "Apply from: {0}";
+    RES_T2 = "Mon";
+    RES_T3 = "Tue";
+    RES_T4 = "Wed";
+    RES_T5 = "Thu";
+    RES_T6 = "Fri";
+    RES_T7 = "Sat";
+    RES_CN = "Sun";
+            </script>
+            <div class="routeDetail">
+             <div class="routeInfo" id="rouInfo">
+              <div class="cms-loading fa fa-spinner fa-pulse fa-3x">
+              </div>
+             </div>
+             <div class="cms-row-spacing">
+             </div>
+             <div id="tabs">
+              <ul>
+               <li>
+                <a href="#tabs-1">
+                 Variations
+                </a>
+               </li>
+               <li>
+                <a href="#tabs-2">
+                 Timetables
+                </a>
+               </li>
+              </ul>
+              <div id="tabs-1">
+               <div class="rouVarInfo" id="accordion">
+                <div class="cms-loading fa fa-spinner fa-pulse fa-3x">
+                </div>
+               </div>
+               <div class="mapInfo" id="map_canvas">
+               </div>
+              </div>
+              <div id="tabs-2">
+               <div class="timetableInfo" id="accTimetable">
+                <div class="cms-loading fa fa-spinner fa-pulse fa-3x">
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+           <!-- End_Module_6617 -->
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="NewsTwoContent">
+       <div class="EDS_panes-holder">
+        <div class="EDS_two-column-content DNNEmptyPane" id="dnn_ContentPane">
+        </div>
+        <div class="EDS_two-column-sidebar DNNEmptyPane" id="dnn_SidebarRight">
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="EDS_bottom-content-pane DNNEmptyPane" id="dnn_BottomContent">
+       </div>
+       <div class="clear">
+       </div>
+       <div class="EDS_panes-holder-invert">
+        <div class="EDS_two-column-sidebar DNNEmptyPane" id="dnn_SidebarLeft">
+        </div>
+        <div class="EDS_two-column-content DNNEmptyPane" id="dnn_ContentPaneRight">
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="EDS_bottom-content-pane DNNEmptyPane" id="dnn_BottomContent2">
+       </div>
+       <div class="clear">
+       </div>
+      </div>
+      <div class="content-bottom-wraper">
+       <div class="DNNEmptyPane" id="dnn_ContentBottom">
+       </div>
+      </div>
+      <div class="NewsTwoBottom">
+       <div class="bottom-wraper">
+        <div class="box DNNEmptyPane" id="dnn_FooterBox1">
+        </div>
+        <div class="box DNNEmptyPane" id="dnn_FooterBox2">
+        </div>
+        <div class="clear768">
+        </div>
+        <div class="box DNNEmptyPane" id="dnn_FooterBox3">
+        </div>
+        <div class="box DNNEmptyPane" id="dnn_FooterBox4">
+        </div>
+        <div class="clear">
+        </div>
+        <div class="copyright">
+         <span class="SkinObject" id="dnn_dnnCopyright_lblCopyright">
+          Copyright © Ho Chi Minh city Management Centre of Public Transport (MCPT)
+         </span>
+         <br/>
+         <span>
+          Designed and Powered by
+          <a href="http://www.fis.com.vn/en" target="fis">
+           FPT Information System
+          </a>
+         </span>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <!--CDF(Javascript|/Portals/_default/Skins/NewsTwo/bootstrap/bootstrap.min.js?cdv=167)-->
+   <!--CDF(Javascript|/Resources/Shared/scripts/cms/common.js?cdv=167)-->
+   <!--CDF(Javascript|/Resources/Shared/scripts/cms/fulltextSearch.js?cdv=167)-->
+   <script lang="ja" type="text/javascript">
+    var API_URL = 'http://apicms.ebms.vn',
+        GEO_API_URL = 'http://api.thongtingiaothong.vn/v1',
+        CUR_CULTURE = 'en-us',
+        DATA_STOPS, DATA_ROUTES;
+
+    CUR_CULTURE = (CUR_CULTURE == 'vi-vn' ? '' : CUR_CULTURE);
+
+    function redirectTo(url) {
+        if (url) {
+            url = "/{0}/{1}".format(CUR_CULTURE, url).replace(new RegExp('//', 'gi'), '/');
+            window.location.replace(url);
+        }
+    }
+
+    function tog(v) { return v ? 'addClass' : 'removeClass'; }
+    $(document).on('input', '.clearable', function () {
+        $(this)[tog(this.value)]('x');
+    }).on('mousemove', '.x', function (e) {
+        $(this)[tog(this.offsetWidth - 18 < e.clientX - this.getBoundingClientRect().left)]('onX');
+    }).on('touchstart click', '.onX', function (ev) {
+        ev.preventDefault();
+        $(this).removeClass('x onX').val('').change();
+    });
+
+    $(window).ready(function () {
+        $('.language .language-object span').each(function () {
+            var me = $(this),
+                html = me.html();
+            html = html.replace("(Việt Nam)", "");
+            html = html.replace("(United States)", "");
+            me.html(html);
+        });
+    });
+   </script>
+   <input id="ScrollTop" name="ScrollTop" type="hidden"/>
+   <input autocomplete="off" id="__dnnVariable" name="__dnnVariable" type="hidden"/>
+   <script src="/Portals/_default/Skins/NewsTwo/bootstrap/bootstrap.min.js?cdv=167" type="text/javascript">
+   </script>
+  </form>
+  <!--CDF(Javascript|/js/dnncore.js?cdv=167)-->
+  <!--CDF(Javascript|/js/dnn.modalpopup.js?cdv=167)-->
+  <!--CDF(Css|/Resources/Shared/stylesheets/dnndefault/7.0.0/default.css?cdv=167)-->
+  <!--CDF(Css|/Portals/_default/Skins/NewsTwo/skin.css?cdv=167)-->
+  <!--CDF(Css|/Portals/_default/Containers/NewsTwo/container.css?cdv=167)-->
+  <!--CDF(Css|/DesktopModules/iBus_RouteDetail/module.css?cdv=167)-->
+  <!--CDF(Css|/DesktopModules/iBus_RouteDetail/module.css?cdv=167)-->
+  <!--CDF(Css|/Portals/0/portal.css?cdv=167)-->
+  <!--CDF(Javascript|/Resources/libraries/jQuery-UI/01_11_03/jquery-ui.js?cdv=167)-->
+  <!--CDF(Javascript|/Resources/libraries/jQuery/01_09_01/jquery.js?cdv=167)-->
+ </body>
+</html>

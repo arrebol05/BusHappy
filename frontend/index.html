@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+        content="Ho Chi Minh City Bus Navigator - Find bus stops, plan routes, and navigate with accessibility features">
+    <title>🚌 BusHappy - HCMC Bus Navigator</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+</head>
+
+<body>
+    <div id="app">
+        <!-- Sidebar -->
+        <div id="sidebar">
+            <!-- Header -->
+            <div id="header">
+                <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+                    <div>
+                        <h1 class="header-title">🚌 BusHappy</h1>
+                        <p class="header-subtitle">Ho Chi Minh City Bus Navigator</p>
+                    </div>
+                    <button id="settings-btn" class="settings-btn" title="Settings">⚙️</button>
+                </div>
+            </div>
+
+            <!-- Search Section -->
+            <div id="search-section">
+                <!-- Search Tabs -->
+                <div class="search-tabs">
+                    <button class="tab-btn active" id="tab-stops">🚏 Bus Stops</button>
+                    <button class="tab-btn" id="tab-locations">📍 Locations</button>
+                </div>
+
+                <!-- Search Box -->
+                <div class="search-box">
+                    <input type="text" id="search-input" placeholder="Search for bus stops..." autocomplete="off" />
+                    <span class="search-icon">🔍</span>
+                </div>
+
+                <!-- Action Buttons -->
+                <div class="action-buttons">
+                    <button class="btn btn-primary" id="nearby-btn">
+                        📍 Nearby Stops
+                    </button>
+                    <button class="btn btn-secondary" id="plan-route-btn">
+                        🗺️ Plan Route
+                    </button>
+                </div>
+            </div>
+
+            <!-- Content Area -->
+            <div id="content-area">
+                <div class="empty-state">
+                    <div class="empty-state-icon">🚏</div>
+                    <p>Click "Nearby Stops" to find bus stops near you<br>or use search to find specific stops</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Map Container -->
+        <div id="map-container">
+            <div id="map"></div>
+        </div>
+    </div>
+
+    <!-- Vite entry point -->
+    <script type="module" src="/src/main.ts"></script>
+</body>
+
+</html>

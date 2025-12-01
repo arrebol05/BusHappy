@@ -1,0 +1,61 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelchair_accessible
+1,DAILY,T000001,Bến xe buýt Chợ Lớn,0,,,1
+1,DAILY,T000002,Bến Thành,1,,,1
+4,DAILY,T000003,Bến xe An Sương,0,,,1
+4,DAILY,T000004,Bến Thành,1,,,1
+6,DAILY,T000005,Đại học Nông Lâm,0,,,1
+6,DAILY,T000006,Bến xe buýt Chợ Lớn,1,,,1
+9,DAILY,T000007,Hưng Long,0,,,1
+9,DAILY,T000008,Bến xe buýt Chợ Lớn,1,,,1
+42,DAILY,T000009,Nhà Bè,0,,,1
+42,DAILY,T000010,Bến Thành,1,,,1
+50,DAILY,T000011,Chợ nông sản Thủ Đức,0,,,1
+50,DAILY,T000012,Phà Cát Lái,1,,,1
+62,DAILY,T000013,Bến xe An Sương,0,,,1
+62,DAILY,T000014,Bến xe Miền Tây,1,,,1
+65,DAILY,T000015,Bình Quới,0,,,1
+65,DAILY,T000016,Cảng Quận 4,1,,,1
+68,DAILY,T000017,Hưng Long,0,,,1
+68,DAILY,T000018,Bến xe buýt Chợ Lớn,1,,,1
+77,DAILY,T000019,Trường Trung học Phổ thông Hiệp Bình,0,,,1
+77,DAILY,T000020,Chợ Phước Bình,1,,,1
+84,DAILY,T000021,Khu công nghiệp Lê Minh Xuân,0,,,1
+84,DAILY,T000022,Bến xe buýt Chợ Lớn,1,,,1
+91,DAILY,T000023,Thới An,0,,,1
+91,DAILY,T000024,Bến xe buýt Quận 8,1,,,1
+102,DAILY,T000025,Bến xe An Sương,0,,,1
+102,DAILY,T000026,Bến Thành,1,,,1
+105,DAILY,T000027,Khu dân cư Vĩnh Lộc,0,,,1
+105,DAILY,T000028,Bến xe buýt Sài Gòn,1,,,1
+112,DAILY,T000029,Hiệp Phước,0,,,1
+112,DAILY,T000030,Bến xe buýt Sài Gòn,1,,,1
+113,DAILY,T000031,Khu công nghiệp Lê Minh Xuân,0,,,1
+113,DAILY,T000032,Chợ Bình Chánh,1,,,1
+114,DAILY,T000033,Bến xe Củ Chi,0,,,1
+114,DAILY,T000034,Bến xe An Sương,1,,,1
+116,DAILY,T000035,Bến xe Miền Đông mới,0,,,1
+116,DAILY,T000036,Long Phước,1,,,1
+121,DAILY,T000037,Lê Minh Xuân,0,,,1
+121,DAILY,T000038,Bến xe buýt Chợ Lớn,1,,,1
+124,DAILY,T000039,Tân Túc,0,,,1
+124,DAILY,T000040,Bến xe buýt Chợ Lớn,1,,,1
+128,DAILY,T000041,Chợ Long Phước,0,,,1
+128,DAILY,T000042,Bến Thành,1,,,1
+133,DAILY,T000043,Bến xe Miền Đông mới,0,,,1
+133,DAILY,T000044,Bến Thành,1,,,1
+137,DAILY,T000045,Đại học Quốc gia,0,,,1
+137,DAILY,T000046,Chợ Thạnh Mỹ Lợi,1,,,1
+13,DAILY,T000047,Bến xe Miền Tây,0,,,1
+13,DAILY,T000048,Bến xe buýt Sài Gòn,1,,,1
+14,DAILY,T000049,Bến xe Ngã tư Ga,0,,,1
+14,DAILY,T000050,Bến xe buýt Chợ Lớn,1,,,1
+28,DAILY,T000051,Khu chế xuất Linh Trung II,0,,,1
+28,DAILY,T000052,Khu du lịch BCR,1,,,1
+31,DAILY,T000053,Chợ Hiệp Thành,0,,,1
+31,DAILY,T000054,Bến xe Miền Đông,1,,,1
+36,DAILY,T000055,Bến xe An Sương,0,,,1
+36,DAILY,T000056,Bến xe Miền Tây,1,,,1
+375,DAILY,T000057,Lượt đi: Bến tàu thủy Bình An – Đường Liên Phường,0,,,1
+375,DAILY,T000058,Lượt về: Đường Liên Phường - Bến tàu thủy Bình An,1,,,1
+364,DAILY,T000059,Lượt đi: Bến xe Văn Thánh - Bến xe Ngã tư Ga,0,,,1
+364,DAILY,T000060,Lượt về: Bến xe Ngã tư Ga - Bến xe Văn Thánh,1,,,1

@@ -1,0 +1,460 @@
+StopId,Code,Name,StopType,Zone,Ward,AddressNo,Street,SupportDisability,Status,Lng,Lat,Search,Routes_Outbound,Routes_Inbound,Total_Routes,Both_Directions,HasSupport
+1233,HHM 052,Ngân Hàng Aribank,Nhà chờ,Huyện Hóc Môn,Xã Trung Chánh,5/1 (gần đường Nguyễn Thị Sóc),Quốc lộ 22,Có,Đang khai thác,106.601978,10.862546,NHA 5/1(dNTS Ql22,,74,1,No,True
+1234,HHM 053,Ngã 3 Củ Cải,Nhà chờ,Huyện Hóc Môn,Xã Xuân Thới Đông,"43/1 (kế 33/5A), 7/2A",Quốc lộ 22,Có,Đang khai thác,106.603324,10.860602,"N3CC 43/1(33/5A),7/2A Ql22",,74,1,No,True
+1238,HHM 057,Cư xá Bà Điểm,Nhà chờ,Huyện Hóc Môn,Xã Bà Điểm,3A,Quốc lộ 22,Có,Đang khai thác,106.610641,10.849713,CxBD 3A Ql22,,74,1,No,True
+1344,Q1 119,Cầu Ông Lãnh,Nhà chờ,Quận 1,Phường Cầu Ông Lãnh,65G (75),Nguyễn Thái Học,Có,Đang khai thác,106.696011,10.766785,COL 65G( NTH,72,,1,No,True
+1383,HCC 042,Nhà thiếu nhi Củ Chi,Nhà chờ,Huyện Củ Chi,Xã Tân Thông Hội,Nhà thiếu nhi Củ Chi,Quốc lộ 22,Có,Đang khai thác,106.505027,10.959204,NtnCC NtnCC Ql22,,74,1,No,True
+1384,HCC 049,trường Tân Phú Trung,Nhà chờ,Huyện Củ Chi,,Đối diện Trường Tân Phú Trung,Quốc lộ 22,Có,Đang khai thác,106.540223,10.93918,tTPT DdTTPT Ql22,,74,1,No,True
+1387,HCC 038,Trường trung học cơ sở Củ Chi,Nhà chờ,Huyện Củ Chi,Thị trấn Củ Chi,607,Quốc lộ 22,Có,Đang khai thác,106.48903,10.967041,TthcsCC 607 Ql22,,74,1,No,True
+1388,HHM 039,Cầu An Hạ,Nhà chờ,Huyện Hóc Môn,Xã Tân Thới Nhì,Giáo xứ Tân Thịnh,Quốc lộ 22,Có,Đang khai thác,106.564212,10.916262,CAH GxTT Ql22,,74,1,No,True
+1393,HHM 056,Ngã tư Trung Chánh,Nhà chờ,Huyện Hóc Môn,Xã Trung Chánh,30/10B (kế 30),Quốc lộ 22,Có,Đang khai thác,106.608152,10.853595,NtTC 30/10B(30) Ql22,,74,1,No,True
+1400,Q3 016,Bệnh viện Mắt - Bình Dân - Da Liễu,Trụ dừng,Quận 3,,205,Cách Mạng Tháng Tám,Có,Đang khai thác,106.684338,10.776202,BvM-BD-DL 205 CMTT,,65,1,No,True
+173,QTP 011,Trạm KCN Tân Bình,Nhà chờ,Quận Tân Phú,Phường Tây Thạnh,881,Trường Chinh,Có,Đang khai thác,106.630615,10.819386,TKTB 881 TC,,"4, 62, 65",3,No,True
+174,QTP 010,Trạm Dệt Thành Công,Nhà chờ,Quận Tân Phú,Phường Tây Thạnh,8,Trường Chinh,Có,Đang khai thác,106.629825,10.822315,TDTC 8 TC,,"4, 41, 62, 65",4,No,True
+176,QTP 012,Ngã 3 Chế Lan Viên,Nhà chờ,Quận Tân Phú,Phường Tây Thạnh,831 (trước showroom o tô),Trường Chinh,Có,Đang khai thác,106.632377,10.814455,N3CLV 831(sot TC,,"4, 62, 65",3,No,True
+198,Q3 055,Điện Biên Phủ,Nhà chờ,Quận 3,,159,Nam Kỳ Khởi Nghĩa,Có,Đang khai thác,106.69099,10.783116,DBP 159 NKKN,,4,1,No,True
+2292,QTP 015,Siêu thị BigC,Nhà chờ,Quận Tân Phú,Phường Tây Thạnh,1/1,Trường Chinh,Có,Đang khai thác,106.634773,10.806212,StB 1/1 TC,,"62, 65",2,No,True
+243,Q3 082,Đại học Kiến Trúc,Nhà chờ,Quận 3,Phường 06,194 D,Pasteur,Có,Đang khai thác,106.694579,10.781804,DhKT 194D P,"4, 93",,2,No,True
+244,Q3 083,Điện Biên Phủ,Nhà chờ,Quận 3,Phường 06,214,Pasteur,Có,Đang khai thác,106.692749,10.783419,DBP 214 P,"4, 93",,2,No,True
+2563,Q3 015,Công an Quận 3,Nhà chờ,Quận 3,,243,Cách Mạng Tháng Tám,Có,Đang khai thác,106.68246,10.777219,CaQ3 243 CMTT,,65,1,No,True
+35,BX 01,Bến xe buýt Sài Gòn,Bến xe,Quận 1,Phường Phạm Ngũ Lão,BẾN XE BUÝT SÀI GÒN,Lê Lai,Có,Đang khai thác,106.689362,10.767676,BxbSG BXBSG LL,"4, 20, 65, 69, 72, 88, 93, 102","4, 20, 65, 69, 72, 88, 93, 102",16,Yes,True
+3634,HHM 035,Công ty Sakos,Nhà chờ,Huyện Hóc Môn,Xã Tân Hiệp,186,Quốc lộ 22,Có,Đang khai thác,106.57337,10.903752,CtS 186 Ql22,74,,1,No,True
+3648,HCC 014,Điện lực Củ Chi - Ngã 3 Việt Kiều,Nhà chờ,Huyện Củ Chi,Xã Tân Thông Hội,400,Quốc lộ 22,Có,Đang khai thác,106.501617,10.961317,DlCC-N3VK 400 Ql22,74,,1,No,True
+375,Q3 105,Sân Phan Đình Phùng,Nhà chờ,Quận 3,,8,Võ Văn Tần,Có,Đang khai thác,106.694402,10.781172,SPDP 8 VVT,,6,1,No,True
+377,Q3 106,Bảo tàng chứng tích chiến tranh,Nhà chờ,Quận 3,,28,Võ Văn Tần,Có,Đang khai thác,106.69254,10.779143,Btctct 28 VVT,,6,1,No,True
+4424,Q4 015,Hồ Bơi Quận 4,Nhà chờ,Quận 4,,120-122,Khánh Hội,Có,Đang khai thác,106.700705,10.756867,HBQ4 120-122 KH,,72,1,No,True
+4726,QGV 024,Chùa Tiên Long,Ô sơn,Quận Gò Vấp,Phường 16,540,Thống Nhất,Có,Đang khai thác,106.66465,10.847995,CTL 540 TN,146,,1,No,True
+4735,QGV 051,Chợ Tân Sơn Nhất,Ô sơn,Quận Gò Vấp,,20,Nguyễn Thái Sơn,Có,Đang khai thác,106.677895,10.814627,CTSN 20 NTS,,103,1,No,True
+4743,QGV 129,XP Garden,Trụ dừng,Quận Gò Vấp,Phường 01,211,Dương Quãng Hàm,Có,Đang khai thác,106.683458,10.836172,XG 211 DQH,,146,1,No,True
+4744,QGV 022,UBND Phường 16,Trụ dừng,Quận Gò Vấp,Phường 16,328,Thống Nhất,Có,Đang khai thác,106.664811,10.842126,UP16 328 TN,146,,1,No,True
+4745,QGV 160,Chùa Huỳnh Kim,Trụ dừng,Quận Gò Vấp,Phường 01,548,Quang Trung,Có,Đang khai thác,106.663368,10.835203,CHK 548 QT,103,,1,No,True
+4748,QTB 156,Ngã ba Kênh Nhật Bản - Hồng Hà,Nhà chờ,Quận Tân Bình,Phường 01,Giữa công viên Gia Định,Hồng Hà,Có,Đang khai thác,106.674371,10.813732,NbKNB-HH GcvGD HH,103,,1,No,True
+4749,QTB 157,Vòng xoay Nguyễn Thái Sơn,Nhà chờ,Quận Tân Bình,,Vòng xoay Nguyễn Thái Sơn,Hồng Hà,Có,Đang khai thác,106.677616,10.814006,VxNTS VxNTS HH,103,,1,No,True
+4750,HHM 021,Công ty Lộc Ích,Nhà chờ,Huyện Hóc Môn,Xã Bà Điểm,Đối diện Công ty Lộc Ích,Quốc lộ 1A,Có,Đang khai thác,106.6034,10.827568,CtLÍ DdCtLÍ Ql1A,,151,1,No,True
+4754,QGV 111,Cầu An Lộc,Trụ dừng,Quận Gò Vấp,Phường 06,604,Nguyễn Oanh,Có,Đang khai thác,106.678802,10.849117,CAL 604 NO,161,,1,No,True
+4759,HHM 047,Công ty Khánh Đông,Nhà chờ,Huyện Hóc Môn,Xã Xuân Thới Sơn,5A,Quốc lộ 22,Có,Đang khai thác,106.58927,10.880337,CtKD 5A Ql22,,74,1,No,True
+4760,Q4 005,Chùa Giác Nguyên,Trụ dừng,Quận 4,Phường 01,93,41,Có,Đang khai thác,106.701434,10.759296,CGN 93 41,,44,1,No,True
+4763,Q6 005,Coop mart Phú Lâm,Nhà chờ,Quận 6,,Đối diện 35,Bà Hom,Có,Đang khai thác,106.633472,10.754311,CmPL Dd35 BH,81,,1,No,True
+4764,Q6 006,Chợ Phú Lâm,Trụ dừng,Quận 6,Phường 01,64A3-64A4,Bà Hom,Có,Đang khai thác,106.630307,10.754933,CPL 64A3-64A4 BH,81,,1,No,True
+4765,Q6 007,Y tế Dự phòng,Trụ dừng,Quận 6,Phường 01,100-102,Bà Hom,Có,Đang khai thác,106.628838,10.755223,YtDp 100-102 BH,81,,1,No,True
+4766,Q6 008,Ngã tư Cây Da Sà,Trụ dừng,Quận 6,Phường 01,248-250,Bà Hom,Có,Đang khai thác,106.625941,10.755802,NtCDS 248-250 BH,81,,1,No,True
+4767,Q6 009,Ngã tư Cây Da Sà,Trụ dừng,Quận 6,Phường 01,263-265,Bà Hom,Có,Đang khai thác,106.625603,10.75566,NtCDS 263-265 BH,,81,1,No,True
+4768,Q6 010,Y tế Dự phòng,Trụ dừng,Quận 6,Phường 01,171-173,Bà Hom,Có,Đang khai thác,106.628441,10.755101,YtDp 171-173 BH,,81,1,No,True
+4769,Q6 011,Chợ Phú Lâm,Trụ dừng,Quận 6,Phường 01,109,Bà Hom,Có,Đang khai thác,106.631069,10.754611,CPL 109 BH,,81,1,No,True
+4770,Q6 012,CoopMart Phú Lâm,Trụ dừng,Quận 6,Phường 01,65-71,Bà Hom,Có,Đang khai thác,106.632754,10.754348,CPL 65-71 BH,,81,1,No,True
+4771,Q6 021,Vành Đai,Ô sơn,Quận 6,Phường 10,72-74,Vành Đai,Có,Đang khai thác,106.62526,10.732149,VD 72-74 VD,61,,1,No,True
+4772,Q6 022,Vành Đai,Trụ dừng,Quận 6,Phường 10,Đối diện 122,Vành Đai,Có,Đang khai thác,106.62439,10.732729,VD Dd122 VD,,61,1,No,True
+4774,Q6 063,Nguyễn Thị Nhỏ,Biển treo,Quận 6,Phường 01,14-16,Nguyễn Thị Nhỏ,Có,Đang khai thác,106.650585,10.751802,NTN 14-16 NTN,103,,1,No,True
+524,QTD 119,Đường số 20,Nhà chờ,TP. Thủ Đức - KV3,Phường Hiệp Bình Chánh,Đối diện 216 - Gigamall ,Phạm Văn Đồng,Có,Đang khai thác,106.721032,10.827878,Ds20 Dd216-G PVD,93,,1,No,True
+525,QTD 120,Chùa Ưu Đàm,Nhà chờ,TP. Thủ Đức - KV3,Phường Hiệp Bình Chánh,Khu dân cư Opal Tower,Phạm Văn Đồng,Có,Đang khai thác,106.72476,10.830679,CUD KdcOT PVD,93,,1,No,True
+526,QTD 121,Cá sấu Hoa cà,Nhà chờ,TP. Thủ Đức - KV3,Phường Hiệp Bình Chánh,Đối diện Cá sấu Hoa Cà,Phạm Văn Đồng,Có,Đang khai thác,106.728331,10.833606,CsHc DdCsHC PVD,93,,1,No,True
+527,QTD 122,THCS Ngô Chí Quốc,Nhà chờ,TP. Thủ Đức - KV3,Phường Hiệp Bình Chánh,412,Phạm Văn Đồng,Có,Đang khai thác,106.730713,10.83555,TNCQ 412 PVD,93,,1,No,True
+528,QTD 123,Chùa An Lạc,Nhà chờ,TP. Thủ Đức - KV3,Phường Hiệp Bình Chánh,Chùa Ưu Đàm,Phạm Văn Đồng,Có,Đang khai thác,106.733288,10.837484,CAL CUD PVD,93,57,2,Yes,True
+529,QTD 124,Cầu Gò Dưa,Nhà chờ,TP. Thủ Đức - KV3,Phường Linh Đông,Trụ chiếu sáng C185,Phạm Văn Đồng,Có,Đang khai thác,106.740509,10.839776,CGD TcsC PVD,93,57,2,Yes,True
+583,QTD 153,Nút giao Linh Đông -PVĐ,Nhà chờ,TP. Thủ Đức - KV3,Phường Linh Đông,Trụ chiếu sáng A226,Phạm Văn Đồng,Có,Đang khai thác,106.742682,10.84077,NgLD-PVD TcsA PVD,57,93,2,Yes,True
+584,QTD 155,Cá sấu Hoa Cà,Nhà chờ,TP. Thủ Đức - KV3,Phường Hiệp Bình Chánh,Trụ chiếu sáng B194,Phạm Văn Đồng,Có,Đang khai thác,106.727916,10.833634,CsHC TcsB PVD,,93,1,No,True
+585,QTD 154,Chùa An Lạc,Nhà chờ,TP. Thủ Đức - KV3,Phường Hiệp Bình Chánh,Ngã tư Hiệp Bình - PVĐ,Phạm Văn Đồng,Có,Đang khai thác,106.732328,10.837284,CAL NtHB-P PVD,,93,1,No,True
+587,QTD 156,Đường số 20,Nhà chờ,TP. Thủ Đức - KV3,Phường Hiệp Bình Chánh,218,Phạm Văn Đồng,Có,Đang khai thác,106.720988,10.828232,Ds20 218 PVD,,93,1,No,True
+6834,Q12 0330,Ngọc Lan,Trụ dừng,Quận 12,Phường Thạnh Lộc,193,Hà Huy Giáp,Có,Đang khai thác,106.68179,10.863242,NL 193 HHG,"103, 161",,2,No,True
+6835,Q12 175,Hiệp Thành 31,Trụ dừng,Quận 12,Phường An Phú Đông,140,Nguyễn Ảnh Thủ,Có,Đang khai thác,106.64418,10.876876,HT31 140 NAT,146,,1,No,True
+6940,QHBT_2,Bến xe Văn Thánh,Bến Bãi QH 568,Quận Bình Thạnh,Phường 01,BX Văn Thánh,Điện Biên Phủ,Có,Chưa khai thác,106.717501,10.801317,BxVT BVT DBP,161,161,2,Yes,True
+6982,QHCTD_3,BXB Linh Đông,Bến bãi QH chung QH,TP. Thủ Đức - KV3,Phường Bình Chiểu,BXB Linh Đông,Kha Vạn Cân,Có,Chưa khai thác,106.752799,10.848469,BLD BLD KVC,,93,1,No,True
+7068,HNB_126,Làng Đại học Khu B,Trụ dừng,Huyện Nhà Bè,Xã Phước Kiển,Làng Đại học Khu B,Nguyễn Hữu Thọ,Có,Đang khai thác,106.70792,10.710159,LDhKB LDhKB NHT,72,,1,No,True
+7069,HNB_127,Làng Đại học Khu B,Ô sơn,Huyện Nhà Bè,Xã Phước Kiển,Đối diện Làng ĐH Khu B,Nguyễn Hữu Thọ,Có,Đang khai thác,106.708714,10.710091,LDhKB DdLDKB NHT,,72,1,No,True
+7072,HNB 128,Cầu Phước Kiểng,Trụ dừng,Huyện Nhà Bè,Xã Phước Kiển,Trụ đèn 158,Nguyễn Hữu Thọ,Có,Đang khai thác,106.722232,10.677831,CPK Td158 NHT,72,,1,No,True
+7073,HNB 129,Cầu Phước Kiểng,Trụ dừng,Huyện Nhà Bè,Xã Phước Kiển,Trụ đèn 17,Nguyễn Hữu Thọ,Có,Đang khai thác,106.72279,10.677757,CPK Td17 NHT,,72,1,No,True
+7074,HNB 130,Cầu Bảng 2,Trụ dừng,Huyện Nhà Bè,Thị trấn Nhà Bè,Trụ đèn 50,Nguyễn Hữu Thọ,Có,Đang khai thác,106.719368,10.690593,CB2 Td50 NHT,,72,1,No,True
+7075,HNB 131,Phú Long,Trụ dừng,Huyện Nhà Bè,Xã Phước Kiển,Đối diện KDC Phú Long,Nguyễn Hữu Thọ,Có,Đang khai thác,106.720655,10.684162,PL DdKPL NHT,72,,1,No,True
+7076,HNB 132,Phú Long,Trụ dừng,Huyện Nhà Bè,Xã Phước Kiển,Phú Long,Nguyễn Hữu Thọ,Có,Đang khai thác,106.721213,10.684478,PL PL NHT,,72,1,No,True
+7077,HNB 133,Khu dân cư Galleria,Trụ dừng,Huyện Nhà Bè,Xã Phước Kiển,Khu dân cư Galleria,Nguyễn Hữu Thọ,Có,Đang khai thác,106.712378,10.704266,KdcG KdcG NHT,72,,1,No,True
+7135,HCC 041,Điện lực Củ Chi - Ngã 3 Việt Kiều,Trụ dừng,Huyện Củ Chi,Xã Tân Thông Hội,413,Quốc lộ 22,Có,Đang khai thác,106.503161,10.9602,DlCC-N3VK 413 Ql22,,74,1,No,True
+7144,QTD 233,Đường 38,Ô sơn,TP. Thủ Đức - KV3,Phường Hiệp Bình Phước,122,Hiệp Bình,Có,Đang khai thác,106.730933,10.843148,D38 122 HB,57,,1,No,True
+7153,HBC 463,Chùa Pháp Tịnh,Trụ dừng,Huyện Bình Chánh,Thị trấn Tân Túc,Đối diện Đ15/20A,Nguyễn Cửu Phú,Có,Đang khai thác,106.580096,10.700914,CPT DdD NCP,,73,1,No,True
+7154,HBC 464,Công ty Hồng Ngọc Mai,Trụ dừng,Huyện Bình Chánh,Thị trấn Tân Túc,Đối diện 16/25A,Nguyễn Cửu Phú,Có,Đang khai thác,106.580343,10.704762,CtHNM Dd16/25A NCP,,73,1,No,True
+7158,Q9 280,Đường số 10,Trụ dừng,TP. Thủ Đức - KV2,Phường Long Trường,Đối diện trụ diện T180,Tam Đa,Có,Đang khai thác,106.831323,10.80803,Ds10 DdtdT TD,141,,1,No,True
+7159,Q9 281,Trạm Hutech - Khu Công nghệ cao,Nhà chờ,TP. Thủ Đức - KV2,Phường Hiệp Phú,Trước Trung tâm Đào tạo NL CLC Hutech,Song hành phải Xa Lộ Hà Nội,Có,Đang khai thác,106.785523,10.856191,TH-KCnc TTtDtNCH ShpXLHN,"6, 76",,2,No,True
+7160,Q9 068,Câu cá Lan Anh,Trụ dừng,TP. Thủ Đức - KV2,,Đối diện 27,Lã Xuân Oai,Có,Đang khai thác,106.815627,10.809105,CcLA Dd27 LXO,,141,1,No,True
+7176,QBT 283,Quán cơm,Trụ dừng,Quận Bình Tân,Phường Bình Trị Đông B,714,Tên Lửa,Có,Đang khai thác,106.606044,10.755834,Qc 714 TL,,41,1,No,True
+7245,Q12 198,Cầu Bến Phân,Ô sơn,Quận 12,Phường An Phú Đông,48,Tô Ngọc Vân,Có,Đang khai thác,106.666946,10.8579,CBP 48 TNV,146,,1,No,True
+7246,Q12 199,Tịnh xá Ngọc Phước,Trụ dừng,Quận 12,Phường An Phú Đông,39/1,Tô Ngọc Vân,Có,Đang khai thác,106.668942,10.860091,TxNP 39/1 TNV,146,,1,No,True
+7248,Q12 201,Cầu Bến Phân,Ô sơn,Quận 12,Phường An Phú Đông,9/1,Tô Ngọc Vân,Có,Đang khai thác,106.667059,10.858469,CBP 9/1 TNV,,146,1,No,True
+7249,Q12 202,UBND Quận 12,Trụ dừng,Quận 12,Phường An Phú Đông,A101-A100,Lê Thị Riêng,Có,Đang khai thác,106.654839,10.863277,UQ12 A LTR,146,,1,No,True
+7250,Q12 203,Bia Heniken Việt Nam,Trụ dừng,Quận 12,Phường An Phú Đông,68,Lê Thị Riêng,Có,Đang khai thác,106.654501,10.869179,BHVN 68 LTR,146,,1,No,True
+7251,Q12 204,Trường THCS Nguyễn Trung Trực,Trụ dừng,Quận 12,Phường An Phú Đông,364,Lê Thị Riêng,Có,Đang khai thác,106.655014,10.875501,TTNTT 364 LTR,146,,1,No,True
+7252,Q12 205,Trường trung học cơ sở Nguyễn Trung Trực,Trụ dừng,Quận 12,Phường An Phú Đông,345,Lê Thị Riêng,Có,Đang khai thác,106.654796,10.875738,TthcsNTT 345 LTR,,146,1,No,True
+7253,Q12 206,Bia Heniken Việt Nam,Trụ dừng,Quận 12,Phường An Phú Đông,Bia Heniken Việt Nam,Lê Thị Riêng,Có,Đang khai thác,106.654329,10.868942,BHVN BHVN LTR,,146,1,No,True
+7254,Q12 207,Ủy Ban nhân dân Quận 12,Trụ dừng,Quận 12,Phường An Phú Đông,01,Lê Thị Riêng,Có,Đang khai thác,106.65464,10.863347,?BndQ12 01 LTR,,146,1,No,True
+7255,Q12 208,Nguyễn Thị Kiêu,Trụ dừng,Quận 12,Phường An Phú Đông,68A,Nguyễn Thị Kiêu,Có,Đang khai thác,106.651921,10.875438,NTK 68A NTK,,146,1,No,True
+7256,Q12 209,Nguyễn Thị Kiêu,Trụ dừng,Quận 12,Phường An Phú Đông,83-85,Nguyễn Thị Kiêu,Có,Đang khai thác,106.652259,10.875559,NTK 83-85 NTK,146,,1,No,True
+7264,Q1 178,Trạm Trung chuyển trên đường Hàm Nghi,Nhà chờ,Quận 1,Phường Nguyễn Thái Bình,Hàm nghi 3,Hàm Nghi,Có,Đang khai thác,106.700758,10.770985,TTctdHN Hn3 HN,"44, 65",,2,No,True
+7266,Q1 180,Trạm Trung chuyển trên đường Hàm Nghi,Nhà chờ,Quận 1,Phường Nguyễn Thái Bình,Hàm Nghi 7,Hàm Nghi,Có,Đang khai thác,106.700807,10.770896,TTctdHN HN7 HN,"4, 88",1,3,Yes,True
+7269,Q1 183,Trạm Trung chuyển trên đường Hàm Nghi,Nhà chờ,Quận 1,Phường Bến Thành,Hàm Nghi 8,Hàm Nghi,Có,Đang khai thác,106.699514,10.771117,TTctdHN HN8 HN,,88,1,No,True
+7273,Q1 187,Khách sạn New World,Nhà chờ,Quận 1,Phường Bến Thành,Số 76,Lê Lai,Có,Đang khai thác,106.695946,10.770964,KsNW S76 LL,,"4, 20, 88, 93, 102",5,No,True
+7274,Q1 188,Nguyễn Thị Nghĩa,Trụ dừng,Quận 1,Phường Bến Thành,94-96,Lê Lai,Có,Đang khai thác,106.693495,10.769952,NTN 94-96 LL,,"4, 20, 69, 72, 88, 93, 102",7,No,True
+7275,Q1 189,Tôn Thất Tùng,Trụ dừng,Quận 1,Phường Bến Thành,202-204,Lê Lai,Có,Đang khai thác,106.690469,10.768761,TTT 202-204 LL,,"4, 20, 69, 72, 88, 93, 102",7,No,True
+7276,Q1 190,Tôn Thất Tùng,Trụ dừng,Quận 1,Phường Phạm Ngũ Lão,277-279-275Y,Phạm Ngũ Lão,Có,Đang khai thác,106.690941,10.76767,TTT 277-279-275Y PNL,"4, 20, 65, 69, 72, 88, 93, 102",,8,No,True
+7277,Q1 191,Nguyễn Thị Nghĩa,Trụ dừng,Quận 1,Phường Phạm Ngũ Lão,187,Phạm Ngũ Lão,Có,Đang khai thác,106.693699,10.768788,NTN 187 PNL,"4, 20, 65, 69, 72, 93, 102",,7,No,True
+7278,Q1 192,Trường Emst Thalmann,Nhà chờ,Quận 1,Phường Phạm Ngũ Lão,Trường Emst Thalmann,Phạm Ngũ Lão,Có,Đang khai thác,106.695587,10.769504,TET TET PNL,"4, 20, 65, 69, 93",,5,No,True
+7282,BX101,Bến xe buýt Chợ Lớn - A,Bến xe,Quận 6,Phường 01,BẾN XE BUÝT CHỢ LỚN A,Lê Quang Sung,Có,Đang khai thác,106.652607,10.751259,BxbCL-A BXBCLA LQS,103,103,2,Yes,True
+7306,HNB_098,Chợ tạm,Trụ dừng,Huyện Nhà Bè,Xã Long Thới,26,Nguyễn Văn Tạo,Có,Đang khai thác,106.733948,10.63952,Ct 26 NVT,,72,1,No,True
+7307,HNB_097,Chợ tạm,Trụ dừng,Huyện Nhà Bè,Thị trấn Nhà Bè,129,Nguyễn Văn Tạo,Có,Đang khai thác,106.733857,10.639414,Ct 129 NVT,72,,1,No,True
+7531,QBT 294,Đường Tên Lửa,Trụ dừng,Quận Bình Tân,Phường Bình Trị Đông B,308,Đường số 1,Có,Đang khai thác,106.611516,10.747807,DTL 308 Ds1,,41,1,No,True
+7532,QBT 295,Đường số 34,Trụ dừng,Quận Bình Tân,Phường Bình Trị Đông B,408-410,Đường số 1,Có,Đang khai thác,106.607836,10.746532,Ds34 408-410 Ds1,,41,1,No,True
+7533,QBT 296,Đường số 13,Trụ dừng,Quận Bình Tân,Phường Bình Trị Đông B,Đối diện 64,Đường số 34,Có,Đang khai thác,106.607906,10.744318,Ds13 Dd64 Ds34,,41,1,No,True
+7534,QBT 297,Đường Tên Lửa,Trụ dừng,Quận Bình Tân,Phường Bình Trị Đông B,339-341,Đường số 1,Có,Đang khai thác,106.611124,10.747507,DTL 339-341 Ds1,41,,1,No,True
+7535,QBT 298,Đường số 34,Trụ dừng,Quận Bình Tân,Phường Bình Trị Đông B,451,Đường số 1,Có,Đang khai thác,106.607332,10.746237,Ds34 451 Ds1,41,,1,No,True
+7537,QBT 300,Bệnh Viện Quốc Tế,Trụ dừng,Quận Bình Tân,Phường Bình Trị Đông B,138,Đường số 17A,Có,Đang khai thác,106.60966,10.742342,BVQT 138 Ds17A,41,,1,No,True
+7564,Q1 196,Bảo tàng Mỹ Thuật,Trụ dừng,Quận 1,Phường Bến Nghé,56,Nguyễn Thái Bình,Có,Đang khai thác,106.699669,10.769251,BtMT 56 NTB,102,,1,No,True
+7573,Q6 118,Đường 72,Ô sơn,Quận 6,Phường 10,41-43,Trần Văn Kiểu,Có,Đang khai thác,106.626568,10.733435,D72 41-43 TVK,61,,1,No,True
+7574,Q6 119,Tòa án Nhân dân Quận 6,Trụ dừng,Quận 6,Phường 10,105,Trần Văn Kiểu,Có,Đang khai thác,106.627035,10.736745,TaNdQ6 105 TVK,61,,1,No,True
+7575,Q6 120,Thảo Đường Thiền Tự,Ô sơn,Quận 6,Phường 10,165,Trần Văn Kiểu,Có,Đang khai thác,106.627668,10.740128,TDTT 165 TVK,61,,1,No,True
+7592,HNB 156,Trạm radar thời tiết Nhà Bè,Trụ dừng,Huyện Nhà Bè,Xã Long Thới,192,Nguyễn Văn Tạo,Có,Đang khai thác,106.726835,10.66065,TrttNB 192 NVT,72,,1,No,True
+7593,HNB 157,Trạm radar thời tiết Nhà Bè,Trụ dừng,Huyện Nhà Bè,Xã Long Thới,Đối diện 198,Nguyễn Văn Tạo,Có,Đang khai thác,106.7272,10.660503,TrttNB Dd198 NVT,,72,1,No,True
+7601,QBT 307,Trung tâm Thanh thiếu niên miền Nam,Ô sơn,Quận Bình Tân,Phường Bình Hưng Hoà B,Trung tâm thanh thiếu niên miền Nam,Đường số 3,Có,Đang khai thác,106.593019,10.810776,TtTtnmN TtttnmN Ds3,,69,1,No,True
+7602,QBT 308,Ủy ban nhân dân Bình Hưng Hòa B,Ô sơn,Quận Bình Tân,Phường Bình Hưng Hoà B,224 (Ốc Quyên 2),Đường số 3,Có,Đang khai thác,106.593835,10.814206,?bndBHHB 224(Q2) Ds3,,69,1,No,True
+7603,QBT 306,Chung cư Green Town,Nhà chờ,Quận Bình Tân,Phường Bình Hưng Hoà B,Chung cư GreenTown ,Đường số 3,Có,Đang khai thác,106.591871,10.805296,CcGT CcG Ds3,,69,1,No,True
+7604,QBT 305,Trường Trí Tuệ Việt,Ô sơn,Quận Bình Tân,Phường Bình Hưng Hoà B,Số 79 Trường Trí Tuệ Việt,Đường số 3,Có,Đang khai thác,106.591169,10.803652,TTTV S79TTTV Ds3,69,69,2,Yes,True
+7605,QBT 304,Chung cư GreenTown,Nhà chờ,Quận Bình Tân,Phường Bình Hưng Hoà B,Đối diện chung cư GreenTown (giữa 02 cây xanh số 66-65),Đường số 3,Có,Đang khai thác,106.591855,10.805686,CcG DdccG(02cxs66-65) Ds3,69,,1,No,True
+7606,QBT 303,Trường THCS Huỳnh Văn Nghệ ,Ô sơn,Quận Bình Tân,Phường Bình Hưng Hoà B,Trường Huỳnh Văn Nghệ,Đường số 3,Có,Đang khai thác,106.592896,10.810702,TTHVN THVN Ds3,69,,1,No,True
+7607,QBT 302,Ủy ban nhân dân Bình Hưng Hòa B,Ô sơn,Quận Bình Tân,Phường Bình Hưng Hoà B,Trụ chiếu sáng 4 (Đối diện Ốc Quyên 2),Đường số 3,Có,Đang khai thác,106.593674,10.813863,?bndBHHB Tcs4(d?Q2) Ds3,69,,1,No,True
+7617,HCC 279,chợ Củ Chi,Nhà chờ,Huyện Củ Chi,Thị trấn Củ Chi,chợ Củ Chi,Quốc lộ 22,Có,Đang khai thác,106.482453,10.970495,cCC cCC Ql22,,74,1,No,True
+7625,QTD 266,KTX Khu B ĐHQG,Nhà chờ,TP. Thủ Đức - KV3,Phường Linh Trung,KTX Khu B ĐHQG (hướng vào),Trục chính sô 7,Có,Đang khai thác,106.782871,10.88196,KKBD KKBD(v Tcs7,99,,1,No,True
+7626,QTD 267,KTX Khu B ĐHQG,Nhà chờ,TP. Thủ Đức - KV3,Phường Linh Trung,KTX Khu B ĐHQG (hướng ra),Trục chính số 7,Có,Đang khai thác,106.78233,10.881686,KKBD KKBD(r Tcs7,,99,1,No,True
+7627,QTD 264,Viện Tài nguyên môi trường,Nhà chờ,TP. Thủ Đức - KV3,Phường Linh Trung,Viện Tài nguyên môi trường,Trục chính số 7,Có,Đang khai thác,106.78719,10.879805,VTnmt VTnmt Tcs7,,99,1,No,True
+7628,QTD 265,Viện Tài nguyên môi trường,Nhà chờ,TP. Thủ Đức - KV3,Phường Linh Trung,Đối diện Viện Tài nguyên môi trường,Trục chính số 7,Có,Đang khai thác,106.787013,10.879984,VTnmt DdVTnmt Tcs7,99,,1,No,True
+7637,QTD 262 ,Nhà khách ĐHQG,Nhà chờ,TP. Thủ Đức - KV3,Phường Linh Trung,Nhà khách ĐHQG (CX264-266),Nguyễn Du,Có,Đang khai thác,106.795521,10.880685,NkD NkD( ND,,99,1,No,True
+7638,QTD 263,Nhà Khách ĐHQG,Nhà chờ,TP. Thủ Đức - KV3,Phường Linh Trung,Đối diện nhà khách ĐHQG (CX353-355),Nguyễn Du,Có,Đang khai thác,106.795558,10.880864,NKD DdnkD( ND,99,,1,No,True
+7639,QTD 268,KTX Khu B ĐHQG,Nhà chờ,TP. Thủ Đức - KV3,Phường Linh Trung,Cổng sau KTX Khu B ĐHQG,Đường Tiêu biểu số 3,Có,Đang khai thác,106.779116,10.883203,KKBD CsKKBD DTbs3,99,,1,No,True
+7640,QTD 269 ,KTX Khu B ĐHQG,Nhà chờ,TP. Thủ Đức - KV3,Phường Linh Trung,Đối diện Cổng sau KTX Khu B ĐHQG,Đường Tiêu biểu số 3,Có,Đang khai thác,106.778483,10.883487,KKBD DdCsKKBD DTbs3,,99,1,No,True
+7641,QTD 260 ,Hồ Đá ,Nhà chờ,TP. Thủ Đức - KV3,Phường Linh Trung,Nút giao Nguyễn Du - Lê Quý Đôn (CX362-364),Nguyễn Du,Có,Đang khai thác,106.800145,10.882966,HD NgND-LQD( ND,,99,1,No,True
+7642,QTD 261,Hồ Đá ,Nhà chờ,TP. Thủ Đức - KV3,Phường Linh Trung,Nút giao Lê Quý Đôn - Nguyễn Du (CX497-499),Nguyễn Du,Có,Đang khai thác,106.8,10.883092,HD NgLQD-ND( ND,99,,1,No,True
+7644,QTD 251,Vành đại ĐHQG TPHCM,Nhà chờ,TP. Thủ Đức - KV3,Phường Linh Trung,Cột điện 6 ĐHQG (Cafe Mưa Bụi),Đường 621,Có,Đang khai thác,106.806995,10.874405,VdDT Cd6D(MB D621,99,,1,No,True
+7647,QTD 252,KTX Khu A ĐH Quốc Gia TPHCM,Nhà chờ,TP. Thủ Đức - KV3,Phường Linh Trung,Nút giao Quảng trường (hướng ra),Quảng Trường Sáng Tạo,Có,Đang khai thác,106.804914,10.875638,KKADQGT NgQt(r QTST,,99,1,No,True
+7648,QTD 253,KTX Khu A ĐH Quốc Gia TPHCM,Nhà chờ,TP. Thủ Đức - KV3,Phường Linh Trung,Nút giao Quảng trường (hướng vào),Quảng Trường Sáng Tạo,Có,Đang khai thác,106.804968,10.875886,KKADQGT NgQt(v QTST,99,,1,No,True
+7651,QTD 272,ĐH Khoa học tự nhiên,Trụ dừng,TP. Thủ Đức - KV3,,đối diện trạm CNG ,Đường 621,Có,Đang khai thác,106.806271,10.874619,DKhtn ddtC D621,,99,1,No,True
+7656,QTD 273,Đại học Quốc tế,Nhà chờ,TP. Thủ Đức - KV3,Phường Linh Trung,Đại học Quốc Tế (cổng ra) ,Lê Quý Đôn,Có,Đang khai thác,106.803004,10.876792,DhQt DhQT(r LQD,,99,1,No,True
+7657,QTD 274,Đại học Quốc tế,Nhà chờ,TP. Thủ Đức - KV3,Phường Linh Trung,Nút giao Lê Quý Đôn - ThomasEdison (đ/d ĐH Quốc tế),Lê Quý Đôn,Có,Đang khai thác,106.802731,10.878182,DhQt NgLQD-T(DQt LQD,99,,1,No,True
+7693,Q1 1950,Nam Kỳ Khởi Nghĩa,Nhà chờ,Quận 1,Phường Nguyễn Thái Bình,93-95,Hàm Nghi,Có,Đang khai thác,106.701354,10.770875,NKKN 93-95 HN,"4, 20, 88, 93",1,5,Yes,True
+7695,BX 33,Bến xe Miền Đông mới,Bến xe,TP. Thủ Đức - KV2,Phường Long Bình,Bến xe Miền Đông mới,Quốc lộ 1,Có,Đang khai thác,106.81497,10.878606,BxMDm BxMDm Ql1,"76, 93","76, 93",4,Yes,True
+7739,H21_02,Sacombank Head Office,Nhà chờ,Quận 3,Phường 08,266Bis,Nam Kỳ Khởi Nghĩa,Có,Chưa khai thác,106.68639,10.78767,SHO 266Bis NKKN,4,,1,No,True
+7782,Q2 107,UBND Thành phố Thủ Đức,Trụ dừng,TP. Thủ Đức - KV1,Phường Thạnh Mỹ Lợi,Đối diện toà nhà Somerset,Phan Văn Đáng,Có,Đang khai thác,106.75676,10.77753,UTpTD DdtnS PVD,99,,1,No,True
+7800,HHM 245,Trường Đại học Ngoại ngữ - Tin học TP.HCM,Trụ dừng,Huyện Hóc Môn,Xã Tân Xuân,Trường Đại học Ngoại ngữ - Tin học TP.HCM,Quốc lộ 22,Có,Đang khai thác,106.600921,10.864569,TDhNn-ThT TDhNn-ThT Ql22,74,,1,No,True
+7803,Q1 026,Ba Son,Ô sơn,Quận 1,Phường Bến Nghé,Đối diện số 2,Tôn Đức Thắng,Có,Đang khai thác,106.706815,10.781625,BS Dds2 TDT,44,88,2,Yes,True
+7807,QTB 162,Ga Quốc nội Sân bay Tân Sơn Nhất,Biển treo,Quận Tân Bình,,Cột B06 - B09,Làn B - Ga Quốc nội,Có,Đang khai thác,106.66281,10.813927,GQnSbTSN CB-B LB-GQn,103,103,2,Yes,True
+7808,Q9 307,Vòng xoay Liên Phường,Trụ dừng,TP. Thủ Đức - KV2,Phường Phước Long B,107,Liên Phường,Có,Đang khai thác,106.788604,10.806922,VxLP 107 LP,,153,1,No,True
+7809,Q9 308,Vòng xoay Liên Phường,Trụ dừng,TP. Thủ Đức - KV2,Phường Phước Long B,Kế 396,Liên Phường,Có,Đang khai thác,106.787593,10.807252,VxLP K396 LP,153,,1,No,True
+7810,Q9 309,Trường CĐ Sư phạm Trung ương 2 (CS2),Trụ dừng,TP. Thủ Đức - KV2,Phường Phước Long B,117-119,Liên Phường,Có,Đang khai thác,106.783458,10.806888,TCSpTu2( 117-119 LP,,"29, 153",2,No,True
+7821,Q7 198,Khu chế xuất Tân Thuận,Trụ dừng,Quận 7,Phường Bình Thuận,KCX Tân Thuận,Nguyễn Văn Linh,Có,Đang khai thác,106.726255,10.752672,KcxTT KTT NVL,,20,1,No,True
+7847,HCC 355,Công ty Thủy lợi TP.HCM,Ô sơn,Huyện Củ Chi,Xã Tân Phú Trung,Công ty Thủy lợi TP.HCM (21),Quốc lộ 22,Có,Đang khai thác,106.555012,10.929399,CtTlT CtTlT( Ql22,,74,1,No,True
+7848,QBTH 161,Học viện Cán bộ TPHCM - Cổng 2,Trụ dừng,Quận Bình Thạnh,,Bên cạnh số 71,Phan Chu Trinh,Có,Chưa khai thác,106.700763,10.813038,HvCbT-C2 Bcs71 PCT,,161,1,No,True
+7856,QBTH 162,Học viện cán bộ TPHCM - Cổng 6,Trụ dừng,Quận Bình Thạnh,Phường 12,Cổng số 6 Học viện cán bộ,Chu Văn An,Có,Chưa khai thác,106.702244,10.811031,HvcbT-C6 Cs6Hvcb CVA,161,,1,No,True
+7857,QBTH 163,Học viện cán bộ TPHCM - Cổng 6,Trụ dừng,Quận Bình Thạnh,Phường 12,Đối diện cổng số 6 Học viện cán bộ,Chu Văn An,Có,Chưa khai thác,106.703211,10.810994,HvcbT-C6 Ddcs6Hvcb CVA,,161,1,No,True
+7858,QBTH 164,Đường số 8,Trụ dừng,Quận Bình Thạnh,Phường 01,208-210,Chu Văn An,Có,Chưa khai thác,106.706242,10.81091,Ds8 208-210 CVA,161,,1,No,True
+7859,QBTH 165,Đường số 8,Trụ dừng,Quận Bình Thạnh,Phường 12,145-147,Chu Văn An,Có,Chưa khai thác,106.706843,10.810661,Ds8 145-147 CVA,,161,1,No,True
+7860,QBTH 166,Chung cư 1050,Trụ dừng,Quận Bình Thạnh,Phường 12,Đối diện chung cư 1050,Phan Chu Trinh,Có,Chưa khai thác,106.70068,10.815899,Cc1050 Ddcc1050 PCT,161,,1,No,True
+7867,QBTH 173,Chung cư Thế kỷ 21,Trụ dừng,Quận Bình Thạnh,Phường 25,151-153,Ung Văn Khiêm,Có,Chưa khai thác,106.722789,10.801624,CcTk21 151-153 UVK,161,,1,No,True
+7870,TPTĐ 001,Công viên Bờ Sông Sài Gòn-Thảo Điền,Nhà chờ,TP. Thủ Đức - KV1,Phường Thảo Điền,Đối diện Công viên Bờ Sông Sài Gòn-Thảo Điền,Nguyễn Văn Hưởng,Có,Đang khai thác,106.72854,10.801637,CvBSSGD DdCvBSSGD NVH,153,,1,No,True
+7871,TPTĐ 002,Công viên Bờ Sông Sài Gòn-Thảo Điền,Nhà chờ,TP. Thủ Đức - KV1,Phường Thảo Điền,Đối diện Ngân hàng HD Bank (1 đường số 49B),Nguyễn Văn Hưởng,Có,Đang khai thác,106.728165,10.801955,CvBSSGD DdNhHB(ds49B) NVH,,153,1,No,True
+7872,TPTĐ 003,Căn hộ Hoàng Anh,Nhà chờ,TP. Thủ Đức - KV1,Phường Thảo Điền,37,Nguyễn Văn Hưởng,Có,Đang khai thác,106.72686,10.804302,ChHA 37 NVH,153,,1,No,True
+7873,TPTĐ 004,Khu nhà biệt thự 38 Nguyễn Văn Hưởng,Nhà chờ,TP. Thủ Đức - KV1,Phường Thảo Điền,40,Nguyễn Văn Hưởng,Có,Đang khai thác,106.7264,10.80485,Knbt38NVH 40 NVH,,153,1,No,True
+7874,TPTĐ 005,Khu biệt thự cao cấp Thảo Điền,Nhà chờ,TP. Thủ Đức - KV1,Phường Thảo Điền,Đối diện 25 HOLM,Nguyễn Văn Hưởng,Có,Đang khai thác,106.725138,10.810821,KbtccTD Dd25H NVH,153,,1,No,True
+7875,TPTĐ 007,Tòa nhà River Garden,Trụ dừng,TP. Thủ Đức - KV1,Phường Thảo Điền,Giữa chung cư River Garden,Nguyễn Văn Hưởng,Có,Đang khai thác,106.727113,10.81534,TnRG GccRG NVH,153,,1,No,True
+7876,TPTĐ 008,Trường Quốc tế Á Châu - Nguyenvanhuong Campus,Nhà chờ,TP. Thủ Đức - KV1,Phường Thảo Điền,179,Nguyễn Văn Hưởng,Có,Đang khai thác,106.727878,10.816087,TQtAC-NC 179 NVH,,153,1,No,True
+7877,TPTĐ 009,Chung cư XI Riverview Palace,Nhà chờ,TP. Thủ Đức - KV1,Phường Thảo Điền,189,Nguyễn Văn Hưởng,Có,Đang khai thác,106.731602,10.817484,CcXRP 189 NVH,,153,1,No,True
+7878,TPTĐ 010,Chung cư XI Riverview Palace,Nhà chờ,TP. Thủ Đức - KV1,Phường Thảo Điền,190 - Chung cư XI,Nguyễn Văn Hưởng,Có,Đang khai thác,106.730777,10.817397,CcXRP 190-CcX NVH,153,,1,No,True
+7879,TPTĐ 011,"BIS HCMC, Junior Campus",Trụ dừng,TP. Thủ Đức - KV1,Phường Thảo Điền,204,Nguyễn Văn Hưởng,Có,Đang khai thác,106.732504,10.813029,BHJC 204 NVH,153,,1,No,True
+7880,TPTĐ 012,"BIS HCMC, Junior Campus",Nhà chờ,TP. Thủ Đức - KV1,Phường Thảo Điền,215,Nguyễn Văn Hưởng,Có,Đang khai thác,106.731594,10.811666,BHJC 215 NVH,,153,1,No,True
+7881,TPTĐ 013,Nhà Văn Hóa Thảo Điền,Nhà chờ,TP. Thủ Đức - KV1,Phường Thảo Điền,Đầu hẻm 76,Nguyễn Văn Hưởng,Có,Đang khai thác,106.732463,10.809173,NVHTD Dh76 NVH,,153,1,No,True
+7882,TPTĐ 014,Ban điều hành khu phố 4,Nhà chờ,TP. Thủ Đức - KV1,Phường Thảo Điền,Đầu đường số 4 (Ban điều hành khu phố 4),Nguyễn Văn Hưởng,Có,Đang khai thác,106.731993,10.809371,Bdhkp4 Dds4(dhkp4) NVH,153,,1,No,True
+7915,TPTĐ 047,The Estella,Trụ dừng,TP. Thủ Đức - KV1,Phường An Phú,The Estella,Đường số 25,Có,Đang khai thác,106.748552,10.800769,TE TE Ds25,,153,1,No,True
+7916,TPTĐ 048,The Estella,Trụ dừng,TP. Thủ Đức - KV1,Phường An Phú,1B31 Khu Phố 5,Đường số 24,Có,Đang khai thác,106.748025,10.800047,TE 1B31KP5 Ds24,153,,1,No,True
+7917,TPTĐ 049,Chung cư Lexington - Block C ,Trụ dừng,TP. Thủ Đức - KV1,Phường An Phú,"Gần Ngân hàng Shinhan, Chi nhánh Đông Sài Gòn",Lồ Bắc,Có,Đang khai thác,106.751557,10.799281,CcL-BC GNhSCnDSG LB,153,,1,No,True
+7918,TPTĐ 050,Chung cư Imperia An Phú-Block B ,Trụ dừng,TP. Thủ Đức - KV1,Phường An Phú,Đối diện Block B Chung cư Imperia An Phú,Lồ Bắc,Có,Đang khai thác,106.750988,10.799544,CcIAPB DdBBCcIAP LB,,153,1,No,True
+7919,TPTĐ 051,Lexington Residence,Trụ dừng,TP. Thủ Đức - KV1,Phường An Phú,Nằm giữa Lexington Residence với Volkswagen An Phú,Mai Chí Thọ,Có,Đang khai thác,106.752434,10.798072,LR NgLRvVAP MCT,153,99,2,Yes,True
+7920,TPTĐ 052,Ban điều hành KP3,Trụ dừng,TP. Thủ Đức - KV1,Phường An Phú,"Gần Ban điều hành KP3, Phường An Phú",Mai Chí Thọ,Có,Đang khai thác,106.752994,10.797208,BdhK GBdhKPAP MCT,99,153,2,Yes,True
+7937,TPTĐ 069,Đường số 52-BTT,Trụ dừng,TP. Thủ Đức - KV1,Phường Bình Trưng Tây,36-38,Bát Nàn,Có,Đang khai thác,106.752553,10.780259,Ds52-BTT 36-38 BN,,99,1,No,True
+7938,TPTĐ 070,Ban Bồi thường GPMB Thành phố Thủ Đức,Nhà chờ,TP. Thủ Đức - KV1,Phường Thạnh Mỹ Lợi,Ban BTGPMB TP. Thủ Đức (164),Trương Văn Bang,Có,Đang khai thác,106.753462,10.777947,BBtGTpTD BBTTD( TVB,,99,1,No,True
+7939,TPTĐ 071,Chợ Thạnh Mỹ Lợi,Trụ dừng,TP. Thủ Đức - KV1,Phường Thạnh Mỹ Lợi,Cạnh số 33,Phạm Thận Duật,Có,Đang khai thác,106.766906,10.769649,CTML Cs33 PTD,,99,1,No,True
+7940,TPTĐ 072,Chợ Thạnh Mỹ Lợi,Nhà chờ,TP. Thủ Đức - KV1,Phường Thạnh Mỹ Lợi,Chợ Thạnh Mỹ Lợi,Phạm Thận Duật,Có,Đang khai thác,106.767532,10.769271,CTML CTML PTD,99,,1,No,True
+7942,TPTĐ 074,UBND Phường Thạnh Mỹ Lợi,Trụ dừng,TP. Thủ Đức - KV1,Phường Thạnh Mỹ Lợi,Cạnh chợ tạm Thạnh Mỹ Lợi,Trương Gia Mô,Có,Đang khai thác,106.769751,10.769984,UPTML CctTML TGM,99,,1,No,True
+7943,TPTĐ 075,Chung cư Thủ Thiêm Xanh,Nhà chờ,TP. Thủ Đức - KV1,Phường Bình Trưng Đông,Đối diện chung cư Thủ Thiêm Xanh (đối diện 1),Đường 63,Có,Đang khai thác,106.776904,10.789713,CcTTX DdccTTX(d1) D63,,153,1,No,True
+7944,TPTĐ 076,Trường tiểu học Nguyễn Văn Trỗi,Nhà chờ,TP. Thủ Đức - KV1,Phường Bình Trưng Đông,Đối diện trường tiểu học Nguyễn Văn Trỗi (đối diện 6),Đường 63,Có,Đang khai thác,106.777131,10.789688,TthNVT DdtthNVT(d6) D63,153,,1,No,True
+7945,TPTĐ 077,Chung cư Phố Đông,Trụ dừng,TP. Thủ Đức - KV2,Phường Phước Long B,38,Đường D6,Có,Đang khai thác,106.783916,10.809406,CcPD 38 DD,,29,1,No,True
+7946,TPTĐ 078,Chung cư Phố Đông,Trụ dừng,TP. Thủ Đức - KV2,Phường Phước Long B,Đối diện 38,Đường D6,Có,Đang khai thác,106.784414,10.808989,CcPD Dd38 DD,29,,1,No,True
+7947,TPTĐ 079,Đường 49,Trụ dừng,TP. Thủ Đức - KV2,Phường Phước Long B,Đối diện 55,Đường D3,Có,Đang khai thác,106.780557,10.807415,D49 Dd55 DD,,29,1,No,True
+7948,TPTĐ 080,Đường 49,Trụ dừng,TP. Thủ Đức - KV2,Phường Phước Long B,75 - 77,Đường D3,Có,Đang khai thác,106.780765,10.807704,D49 75-77 DD,29,,1,No,True
+7949,TPTĐ 081,Trung cấp nghề Suleco,Trụ dừng,TP. Thủ Đức - KV2,Phường Phước Bình,120 (đối diện trường Trung cấp nghề Suleco),Đại lộ 3,Có,Đang khai thác,106.770724,10.812885,TcnS 120(dtTcnS Dl3,57,,1,No,True
+7950,TPTĐ 082,Trung cấp nghề Suleco,Nhà chờ,TP. Thủ Đức - KV2,Phường Phước Bình,Trường Trung cấp nghề Suleco,Đại lộ 3,Có,Đang khai thác,106.770756,10.812697,TcnS TTcnS Dl3,,57,1,No,True
+7951,TPTĐ 083,Công viên Phước Bình,Nhà chờ,TP. Thủ Đức - KV2,Phường Phước Bình,giữa Công viên Phước Bình,Đường số 18B,Có,Đang khai thác,106.770137,10.815364,CvPB gCvPB Ds18B,57,,1,No,True
+7952,TPTĐ 084,Công viên Phước Bình,Trụ dừng,TP. Thủ Đức - KV2,Phường Phước Bình,đối diện Công viên Phước Bình (đối diện đường số 6C),Đường số 18B,Có,Đang khai thác,106.770087,10.815663,CvPB ddCvPB(dds6C) Ds18B,,57,1,No,True
+7955,TPTĐ 087,Chợ Phước Bình,Ô sơn,TP. Thủ Đức - KV2,Phường Phước Bình,Chợ Phước Bình,Đại lộ 2,Có,Đang khai thác,106.771932,10.817384,CPB CPB Dl2,57,,1,No,True
+8007,TPTĐ 137,Chung cư Vista Verde,Trụ dừng,TP. Thủ Đức - KV1,Phường Thạnh Mỹ Lợi,Tòa Orchid - Chung cư Vista Verde,Trương Văn Bang,Có,Đang khai thác,106.755838,10.775898,CcVV TO-CcVV TVB,99,,1,No,True
+8010,TPTĐ 140,Trụ sở Khu phố Tam Đa,Nhà chờ,TP. Thủ Đức - KV2,Phường Trường Thạnh,đối diện Trụ sở Khu phố Tam Đa,Tam Đa,Có,Đang khai thác,106.835781,10.806509,TsKpTD ddTsKpTD TD,141,,1,No,True
+8011,TPTĐ 141,Trụ sở Khu phố Tam Đa,Trụ dừng,TP. Thủ Đức - KV2,Phường Trường Thạnh,Gần Trụ sở Khu phố Tam Đa ,Tam Đa,Có,Đang khai thác,106.835012,10.806661,TsKpTD GTsKpTD TD,,141,1,No,True
+8035,TPTĐ 165,Trường THPT Hiệp Bình,Nhà chờ,TP. Thủ Đức - KV3,Phường Hiệp Bình Phước,63,Hiệp Bình,Có,Đang khai thác,106.722248,10.847039,TTHB 63 HB,57,,1,No,True
+8082,QBTH 176,Công viên Cầu Sài Gòn,Trụ dừng,Quận Bình Thạnh,Phường 25,Phía trước 681 Điện Biên Phủ,Nguyễn Hữu Cảnh,Có,Chưa khai thác,106.722217,10.799053,CvCSG Pt681DBP NHC,161,161,2,Yes,True
+8086,TPTĐ 216,Ga metro An Phú,Nhà chờ,TP. Thủ Đức - KV1,Phường An Phú,Cạnh ga metro An Phú,Song Hành trái Xa Lộ Hà Nội,Có,Đang khai thác,106.741664,10.801914,GmAP CgmAP SHtXLHN,153,,1,No,True
+8089,TPTĐ 219,Ga metro Rạch Chiếc,Nhà chờ,TP. Thủ Đức - KV1,Phường An Phú,Cạnh đại lý Phú Mỹ Ford Chi nhánh An Phú (507C Xa Lộ Hà Nội),Song Hành trái Xa Lộ Hà Nội,Có,Đang khai thác,106.755418,10.809318,GmRC CdlPMFCnAP(XLHN SHtXLHN,,99,1,No,True
+8091,TPTĐ 221,Ga metro Rạch Chiếc,Nhà chờ,TP. Thủ Đức - KV1,Phường An Phú,Đối diện ga metro Rạch Chiếc,Song hành phải Xa Lộ Hà Nội,Có,Đang khai thác,106.75641,10.808047,GmRC DdgmRC ShpXLHN,99,,1,No,True
+8101,Q9 313,Ký túc xá Đại học Sư phạm kỹ thuật,Nhà chờ,TP. Thủ Đức - KV2,Phường Tăng Nhơn Phú A,Cây xanh 132-134,Lê Văn Việt,Có,Đang khai thác,106.796429,10.845888,KtxDhSpkt Cx132-134 LVV,99,141,2,Yes,True
+8110,BX 110,Liên Phường,Bến xe,TP. Thủ Đức - KV2,Phường Phú Hữu,Cột điện TC52,Bưng Ông Thoàn,Có,Đang khai thác,106.799941,10.804558,LP CdT BOT,153,153,2,Yes,True
+8112,HBC 475,Bệnh Viện Bình Chánh,Trụ dừng,Huyện Bình Chánh,Thị trấn Tân Túc,Bệnh Viện Bình Chánh,1A,Có,Đang khai thác,106.5864,10.69039,BVBC BVBC 1A,84,84,2,Yes,True
+8113,HBC 476,TT Y TẾ HUYỆN BÌNH CHÁNH,Trụ dừng,Huyện Bình Chánh,Thị trấn Tân Túc,Bệnh Viện Bình Chánh,Tân Túc,Có,Đang khai thác,106.5848,10.69134,TYTHBC BVBC TT,"73, 84",84,3,Yes,True
+8154,TPTĐ 135,Ga An Phú,Nhà chờ,TP. Thủ Đức - KV1,Phường An Phú,159,Võ Nguyên Giáp,Có,Đang khai thác,106.741589,10.801817,GAP 159 VNG,,"6, 153",2,No,True
+8187,TPTĐ 263,Verosa Park Khang Điền,Trụ dừng,TP. Thủ Đức - KV2,Phường Phú Hữu,Đối diện cổng Verosa Khang Điền,Liên Phường,Có,Đang khai thác,106.793331,10.804395,VPKD DdcVKD LP,153,,1,No,True
+8188,TPTĐ 264,Verosa Park Khang Điền,Trụ dừng,TP. Thủ Đức - KV2,Phường Phú Hữu,Đối diện 532,Liên Phường,Có,Đang khai thác,106.794018,10.80457,VPKD Dd532 LP,,153,1,No,True
+8189,TPTĐ 265,Chung Cư The Eastern,Trụ dừng,TP. Thủ Đức - KV2,Phường Phú Hữu,Đối diện Chung cư Eastern (KẾ 606),Liên Phường,Có,Đang khai thác,106.797591,10.804243,CCTE DdCcE(606) LP,153,,1,No,True
+8190,TPTĐ 266,Chung Cư The Eastern,Trụ dừng,TP. Thủ Đức - KV2,Phường Phú Hữu,Chung cư Eastern (đối diện 307),Liên Phường,Có,Đang khai thác,106.797739,10.804444,CCTE CcE(d307) LP,,153,1,No,True
+8193,TPTĐ 269,Khu nhà ở công nhân Lilama 18,Trụ dừng,TP. Thủ Đức - KV2,Phường Phước Long B,108,Dương Đình Hội,Có,Đang khai thác,106.77967,10.82169,KnocnL18 108 DDH,57,,1,No,True
+8194,TPTĐ 270,Khu nhà ở công nhân Lilama 18,Ô sơn,TP. Thủ Đức - KV2,Phường Phước Long B,139E-141,Dương Đình Hội,Có,Đang khai thác,106.779679,10.821881,KnocnL18 139E-141 DDH,,57,1,No,True
+8195,TPTĐ 271,Trạm biến áp Bình Thái,Ô sơn,TP. Thủ Đức - KV3,Phường Trường Thọ,Kế 463,Nguyễn Văn Bá,Có,Đang khai thác,106.76639,10.83744,TbaBT K463 NVB,,"6, 29",2,No,True
+8196,TPTĐ 272,Trạm biến áp Bình Thái,Ô sơn,TP. Thủ Đức - KV3,Phường Trường Thọ,Đối diện Trạm biến áp,Nguyễn Văn Bá,Có,Đang khai thác,106.7663,10.83706,TbaBT DdTba NVB,"6, 29",,2,No,True
+3519,Q5 062,Trần Phú,Ô sơn,Quận 5,,467-469,Nguyễn Trãi,No,Đang khai thác,106.673014,10.755212,TP 467-469 NT,,1,1,No,False
+3381,QTD 138,Trạm cầu vượt Linh Xuân,Trụ dừng,TP. Thủ Đức - KV3,Phường Linh Trung,1326-1328 (1129-1131),Kha Vạn Cân,No,Đang khai thác,106.763999,10.87135,TcvLX 1326-1328( KVC,93,,1,No,False
+3406,Q12 141,Ngân hàng ACB,Trụ dừng,Quận 12,,90A,Nguyễn Văn Quá,No,Đang khai thác,106.627148,10.829908,NhA 90A NVQ,62,,1,No,False
+2152,HBC 413,Bệnh viện Bình Chánh,Trụ dừng,Huyện Bình Chánh,Thị trấn Tân Túc,Đ/d SatraFood E9/8A-8C (Bệnh viện Bình Chánh Cũ),Nguyễn Hữu Trí,No,Đang khai thác,106.592746,10.696259,BvBC DSE(vBCC NHT,84,,1,No,False
+2140,BX 72,Bến xe buýt Bình Khánh,Bến xe,Huyện Nhà Bè,,BẾN XE BUÝT BÌNH KHÁNH,Huỳnh Tấn Phát,No,Đang khai thác,106.766263,10.673856,BxbBK BXBBK HTP,20,20,2,Yes,False
+4168,Q2 065,"176, Lê Văn Thịnh",Trụ dừng,TP. Thủ Đức - KV1,,176,Lê Văn Thịnh,No,Đang khai thác,106.768747,10.778574,"176,LVT 176 LVT",,29,1,No,False
+3288,HBC 281,Coop mart Vĩnh Lộc B,Trụ dừng,Huyện Bình Chánh,Xã Phạm Văn Hai,1A24/2,Trần Văn Giàu,No,Đang khai thác,106.563392,10.76502,CmVLB 1A24/2 TVG,"73, 81",,2,No,False
+1648,QBTH 096,Trường TH Nguyễn Đình Chiểu,Trụ dừng,Quận Bình Thạnh,,22-24,Lê Quang Định,No,Đang khai thác,106.698409,10.803546,TTNDC 22-24 LQD,146,,1,No,False
+3641,HCC 008,Chùa Pháp Hạnh,Trụ dừng,Huyện Củ Chi,Xã Tân Phú Trung,444A,Quốc lộ 22,No,Đang khai thác,106.529269,10.944768,CPH 444A Ql22,74,,1,No,False
+1509,Q9 074,Dốc xóm Bến,Trụ dừng,TP. Thủ Đức - KV2,,Đối diện Quán Nhà Quê,Lã Xuân Oai,No,Đang khai thác,106.799408,10.836178,DxB DdQNQ LXO,,"76, 141",2,No,False
+671,HBC 264,Nguyễn Văn Long,Trụ dừng,Huyện Bình Chánh,,Đối diện Trường Quy Đức,Hương Lộ 11,No,Đang khai thác,106.644271,10.639399,NVL DdTQD HL11,9,,1,No,False
+1727,QTP 120,UBND Quận Tân Phú,Trụ dừng,Quận Tân Phú,,Đối diện 65,Thoại Ngọc Hầu,No,Đang khai thác,106.637779,10.783206,UQTP Dd65 TNH,,62,1,No,False
+819,HBC 030,Khu dân cư 13A,Trụ dừng,Huyện Bình Chánh,,Cột điện T146P (Cột điện 213),Nguyễn Văn Linh,No,Đang khai thác,106.637893,10.705109,Kdc13A CdT(d213) NVL,,102,1,No,False
+866,Q7 084,Cầu Lý Phục Man,Trụ dừng,Quận 7,,636,Nguyễn Văn Linh,No,Đang khai thác,106.721508,10.742521,CLPM 636 NVL,102,,1,No,False
+3908,HBC 319,Kênh 2,Trụ dừng,Huyện Bình Chánh,Xã Bình Lợi,Đ/d C5/178A (Đối diện Kênh 2),"Vườn Thơm, Bình Chánh",No,Đang khai thác,106.485704,10.75614,K2 DC(dK2) VTBC,,81,1,No,False
+4019,BX27,Chợ Long Phước,Bến xe,TP. Thủ Đức - KV2,,ĐẦU BẾN CHỢ LONG PHƯỚC,Long Phước,No,Đang khai thác,106.85936,10.808298,CLP DBCLP LP,88,88,2,Yes,False
+3452,QBT 161,Nhà thờ tin lành,Trụ dừng,Quận Bình Tân,,693,"Tỉnh lộ 10,Tân Tạo, Hồ Chí Minh, Việt Nam",No,Đang khai thác,106.611811,10.758058,"Nttl 693 Tl10,TanTHCMVN",,81,1,No,False
+922,QGV 157,Nhà thờ Xóm Thuốc,Nhà chờ,Quận Gò Vấp,,190,Quang Trung,No,Đang khai thác,106.672606,10.829186,NtXT 190 QT,103,,1,No,False
+1123,HNB 055,Ngã tư Long Hậu,Trụ dừng,Huyện Nhà Bè,,921,Nguyễn Văn Tạo,No,Đang khai thác,106.736104,10.631169,NtLH 921 NVT,,72,1,No,False
+2780,Q12 084,Công viên Phần mềm Quang Trung,Nhà chờ,Quận 12,,Công viên phần mềm Quang Trung,Quốc lộ 1A,No,Đang khai thác,106.630935,10.852242,CvPmQT CvpmQT Ql1A,,62,1,No,False
+3659,HHM 043,Doanh trại Quân Đội,Trụ dừng,Huyện Hóc Môn,Xã Tân Thới Nhì,48/10A,Quốc lộ 22,No,Đang khai thác,106.578358,10.896083,DtQD 48/10A Ql22,,74,1,No,False
+4120,Q9 251,Chùa Kim Linh,Ô sơn,TP. Thủ Đức - KV2,,253,Tăng Nhơn Phú,No,Đang khai thác,106.781557,10.834607,CKL 253 TNP,,99,1,No,False
+3334,HBC 048,Việt Cường Phát,Trụ dừng,Huyện Bình Chánh,,Cột điện T148P,Trần Đại Nghĩa,No,Đang khai thác,106.561552,10.733936,VCP CdT TDN,61,,1,No,False
+688,HBC 240,Công ty Thông Hương,Ô sơn,Huyện Bình Chánh,,9/6B,Hương Lộ 11,No,Đang khai thác,106.598958,10.661831,CtTH 9/6B HL11,,9,1,No,False
+1147,HNB 028,Nha khoa Khánh Minh,Trụ dừng,Huyện Nhà Bè,Thị trấn Nhà Bè,1901B,Huỳnh Tấn Phát,No,Đang khai thác,106.738785,10.6984,NkKM 1901B HTP,20,,1,No,False
+1939,QBT 081,Thiên Phúc Học,Nhà chờ,Quận Bình Tân,Phường Bình Hưng Hoà B,734 (kế 738),Quốc lộ 1A,No,Đang khai thác,106.593697,10.781952,TPH 734(738) Ql1A,,151,1,No,False
+154,Q11 014,Lê Đại Hành,Trụ dừng,Quận 11,,1007 (1029),Đường 3/2,No,Đang khai thác,106.656006,10.761562,LDH 1007( D3/2,103,62,2,Yes,False
+1484,QTD 040,Chợ Bình Chiểu,Trụ dừng,TP. Thủ Đức - KV3,,961,Tỉnh lộ 43,No,Đang khai thác,106.730472,10.879025,CBC 961 Tl43,,141,1,No,False
+1518,Q9 161,Chợ Long Trường,Trụ dừng,TP. Thủ Đức - KV2,,1497 (Đối diện Chợ Long Trường),Nguyễn Duy Trinh,No,Đang khai thác,106.821077,10.806213,CLT 1497(dCLT NDT,141,88,2,Yes,False
+3991,Q2 005,Cầu Ông Tranh,Trụ dừng,TP. Thủ Đức - KV1,,Cột điện UEB33,Lương Định Của,No,Đang khai thác,106.741667,10.790099,COT CdU LDC,88,,1,No,False
+184,QTB 125,Siêu thị Maximart Cộng Hòa,Nhà chờ,Quận Tân Bình,,Đối diện 58 (Siêu thị Maximart),Cộng Hòa,No,Đang khai thác,106.658819,10.800833,StMCH Dd58(tM CH,,4,1,No,False
+2915,QTP 022,Trạm Đầu Tây Thạnh,Trụ dừng,Quận Tân Phú,Phường Tây Thạnh,389,Tây Thạnh,No,Đang khai thác,106.619434,10.809564,TDTT 389 TT,41,,1,No,False
+3916,HBC 327,Cầu Rau Răm,Trụ dừng,Huyện Bình Chánh,Xã Bình Lợi,D6/643,"Vườn Thơm, Bình Chánh",No,Đang khai thác,106.512387,10.787026,CRR D VTBC,,81,1,No,False
+3356,HBC 058,Đường số 5B,Nhà chờ,Huyện Bình Chánh,,B11/3B,Trần Đại Nghĩa,No,Đang khai thác,106.585434,10.728301,Ds5B B TDN,,61,1,No,False
+3721,HBC 075,Đường dẫn Cao tốc,Ô sơn,Huyện Bình Chánh,,C2/17E,Bùi Thanh Khiết,No,Đang khai thác,106.576781,10.684162,DdCt C BTK,73,,1,No,False
+826,HBC 035,Qua Quốc lộ 50,Trụ dừng,Huyện Bình Chánh,,Cột điện T232P (Cột điện 131),Nguyễn Văn Linh,No,Đang khai thác,106.656303,10.719436,QQl50 CdT(d131) NVL,,102,1,No,False
+1538,Q9 110,Siêu thị Coopmart,Trụ dừng,TP. Thủ Đức - KV2,Phường Hiệp Phú,21 (17-19),Lê Văn Việt,No,Đang khai thác,106.775045,10.848411,StC 21( LVV,"57, 76, 141",,3,No,False
+33,BX 06,Công Trường Mê Linh,Bến xe,Quận 1,Phường Bến Nghé,Công trường Mê Linh,Thi Sách,No,Đang khai thác,106.705856,10.77679,CTML CtML TS,1,1,2,Yes,False
+574,QTD 177,Khu DL Suối Tiên,Nhà chờ,TP. Thủ Đức - KV3,Phường Linh Trung,9/29,Quốc lộ 1,No,Đang khai thác,106.801116,10.86605,KDST 9/29 Ql1,,"76, 93, 99",3,No,False
+3740,QBT 172,Trạm y tế phường Tân Tạo,Ô sơn,Quận Bình Tân,,4430,Nguyễn Cửu Phú,No,Đang khai thác,106.586604,10.755644,TytpTT 4430 NCP,73,,1,No,False
+2970,QBTH 021,Khu du lịch Bình Quới,Trụ dừng,Quận Bình Thạnh,,520,Bình Quới,No,Đang khai thác,106.737912,10.828332,KdlBQ 520 BQ,44,,1,No,False
+1925,QBTH 060,Vòng xoay Hàng Xanh,Nhà chờ,Quận Bình Thạnh,,442,Điện Biên Phủ,No,Đang khai thác,106.710269,10.80108,VxHX 442 DBP,93,,1,No,False
+1204,Q7 073,Trà My,Trụ dừng,Quận 7,Phường Tân Phong,645,Nguyễn Hữu Thọ,No,Đang khai thác,106.700243,10.729419,TM 645 NHT,72,,1,No,False
+4052,Q9 156,UBND P.Phú Hữu,Trụ dừng,TP. Thủ Đức - KV2,,877,Nguyễn Duy Trinh,No,Đang khai thác,106.79786,10.791405,UPH 877 NDT,,88,1,No,False
+3571,QTP 043,Trạm Phạm Văn Xảo,Trụ dừng,Quận Tân Phú,Phường Phú Thọ Hoà,451,Vườn Lài,No,Đang khai thác,106.623377,10.788296,TPVX 451 VL,,69,1,No,False
+208,Q12 055,Ngã tư Ga,Trụ dừng,Quận 12,,141-143A,Hà Huy Giáp,No,Đang khai thác,106.679649,10.857984,NtG 141-143A HHG,,161,1,No,False
+3129,HBC 208,Trường chuyên biệt Rạng Đông,Trụ dừng,Huyện Bình Chánh,,A12/366 (A12/363),Quốc lộ 50,No,Đang khai thác,106.651261,10.683149,TcbRD A( Ql50,,47,1,No,False
+2837,Q10 067,Bệnh viện 115,Trụ dừng,Quận 10,,99-101,Thành Thái,No,Đang khai thác,106.664554,10.77382,Bv115 99-101 TT,,69,1,No,False
+4588,HHM 0490,Công ty Suất ăn công nghiệp,Trụ dừng,Huyện Hóc Môn,Xã Xuân Thới Đông,43/1,Quốc lộ 22,No,Đang khai thác,106.594666,10.872947,CtSacn 43/1 Ql22,,74,1,No,False
+1670,Q12 001,Metro Hiệp Phú,Trụ dừng,Quận 12,,48,Lê Văn Khương,No,Đang khai thác,106.649705,10.863711,MHP 48 LVK,62,,1,No,False
+632,QBT 016,SinCo,Nhà chờ,Quận Bình Tân,,Đối diện nhà trọ Thanh Trường,Kinh Dương Vương,No,Đang khai thác,106.611028,10.731674,S DdntTT KDV,"9, 61, 84, 151",102,5,Yes,False
+483,Q9 213,Khu QLGTDT số 2,Nhà chờ,TP. Thủ Đức - KV2,,Khu QLGTĐT số 2,Võ Nguyên Giáp,No,Đang khai thác,106.76415,10.831921,KQs2 KQs2 VNG,6,,1,No,False
+166,BX41,Bến xe An Sương,Bến xe,Quận 12,,Bến xe An Sương,Quốc lộ 22,No,Đang khai thác,106.61337280273438,10.843737602233888,BxAS BxAS Ql22,"4, 41, 65, 74, 151","4, 41, 65, 74, 151",10,Yes,False
+617,Q8 110,Tùng Thiện Vương,Trụ dừng,Quận 8,,388,Tùng Thiện Vương,No,Đang khai thác,106.656926,10.74483,TTV 388 TTV,47,62,2,Yes,False
+1900,QBT 066,Trạm cân số 1,Ô sơn,Quận Bình Tân,Phường Bình Hưng Hòa,497,Quốc lộ 1A,No,Đang khai thác,106.598716,10.804131,Tcs1 497 Ql1A,151,,1,No,False
+1494,QTD 046,Chùa Vạn Hạnh,Trụ dừng,TP. Thủ Đức - KV3,Phường Tam Phú,571-573 (583),Tô Ngọc Vân,No,Đang khai thác,106.741839,10.864554,CVH 571-573( TNV,,"29, 141",2,No,False
+4217,Q6 066,Bệnh viện Quận 6,Trụ dừng,Quận 6,,256B-256C,Nguyễn Văn Luông,No,Đang khai thác,106.635157,10.747096,BvQ6 256B-256C NVL,,61,1,No,False
+3296,HBC 126,Cổng 4,Trụ dừng,Huyện Bình Chánh,,Đối diện G14/18,Láng Le bàu Cò,No,Đang khai thác,106.544096,10.756271,C4 DdG LLbC,73,,1,No,False
+3071,Q4 039,Tôn Đản,Trụ dừng,Quận 4,,322-324A,Tôn Đản,No,Đang khai thác,106.705711,10.7551,TD 322-324A TD,,44,1,No,False
+681,HBC 231,Ấp 2,Trụ dừng,Huyện Bình Chánh,,C5/31D,Hương Lộ 11,No,Đang khai thác,106.626177,10.649242,A2 C HL11,,9,1,No,False
+424,Q5 074,Đại học Khoa học Tự nhiên,Nhà chờ,Quận 5,,227,Nguyễn Văn Cừ,No,Đang khai thác,106.682388,10.763354,DhKhTn 227 NVC,,6,1,No,False
+3474,HBC 288,Kênh A,Ô sơn,Huyện Bình Chánh,Xã Phạm Văn Hai,Cafe 94 (2A/94),Tỉnh lộ 10 Bình Chánh,No,Đang khai thác,106.533437,10.780034,KA C94( Tl10BC,81,,1,No,False
+3704,Q9 117,Lò Lu,Trụ dừng,TP. Thủ Đức - KV2,,Cột điện PB 28,Lò Lu,No,Đang khai thác,106.828857,10.825013,LL CdP28 LL,76,,1,No,False
+540,QGV 048,UBND Phường 5,Trụ dừng,Quận Gò Vấp,,247,Nguyễn Thái Sơn,No,Đang khai thác,106.688259,10.825513,UP5 247 NTS,,146,1,No,False
+2131,Q7 014,Mầm non Ban Mai,Trụ dừng,Quận 7,Phường Phú Mỹ,1004A,Huỳnh Tấn Phát,No,Đang khai thác,106.735412,10.722836,MnBM 1004A HTP,20,,1,No,False
+4192,Q9 027,Cầu Nam Lý,Ô sơn,TP. Thủ Đức - KV2,,đối diện 13KD (585),Đỗ Xuân Hợp,No,Đang khai thác,106.776016,10.811693,CNL dd13KD( DXH,29,,1,No,False
+4098,Q9 263,Đường cầu xây,Ô sơn,TP. Thủ Đức - KV2,Phường Long Thạnh Mỹ,54A-56 (58),Hoàng Hữu Nam,No,Đang khai thác,106.813675,10.854681,Dcx 54A-56( HHN,99,,1,No,False
+371,Q1 100,nhà thờ Mạc Ti Nho,Nhà chờ,Quận 1,Phường Đa Kao,16A,Nguyễn Thị Minh Khai,No,Đang khai thác,106.701294,10.786397,ntMTN 16A NTMK,,6,1,No,False
+2137,HNB 012,Việt Long Sài Gòn,Nhà chờ,Huyện Nhà Bè,Xã Phú Xuân,Công ty Việt Long Sài Gòn,Huỳnh Tấn Phát,No,Đang khai thác,106.757192,10.676897,VLSG CtVLSG HTP,20,,1,No,False
+265,QTB 116,ETown,Trụ dừng,Quận Tân Bình,,496,Cộng Hòa,No,Đang khai thác,106.640967,10.802571,E 496 CH,4,,1,No,False
+694,HBC 270,Công ty Tia Sáng,Trụ dừng,Huyện Bình Chánh,Xã Bình Chánh,D16/6 (1/11A),Đinh Đức Thiện,No,Đang khai thác,106.582854,10.657213,CtTS D( DDT,,9,1,No,False
+3035,HBC 188,Đường liên Ấp 1-2,Trụ dừng,Huyện Bình Chánh,,Cột điện H148P (A14/396),Quốc lộ 50,No,Đang khai thác,106.65154,10.662801,DlA1-2 CdH( Ql50,47,,1,No,False
+889,HBC 452,Trạm thu phí Chợ Bình Điền,Ô sơn,Huyện Bình Chánh,,Đối diện công ty bất động sản,Đường vào Chợ ĐM Bình Điền,No,Đang khai thác,106.609359,10.698405,TtpCBD Ddctbds DvCDBD,102,102,2,Yes,False
+1080,HNB 070,Chợ Bà Chồi,Trụ dừng,Huyện Nhà Bè,,372 (Chợ Bà Chồi),Nguyễn Văn Tạo,No,Đang khai thác,106.730316,10.650117,CBC 372(BC NVT,72,,1,No,False
+827,HBC 039,Phạm Hùng,Trụ dừng,Huyện Bình Chánh,,C11/36B7 (Hai Nô),Nguyễn Văn Linh,No,Đang khai thác,106.67675,10.727517,PH C(N NVL,,102,1,No,False
+3638,HCC 004,Mũi tàu Tỉnh lộ 2,Trụ dừng,Huyện Củ Chi,Xã Tân Phú Trung,158,Quốc lộ 22,No,Đang khai thác,106.549553,10.934983,MtTl2 158 Ql22,74,,1,No,False
+1118,HNB 060,Nhà Tưởng niệm Liệt sỹ Nhà Bè,Ô sơn,Huyện Nhà Bè,,Đối diện Nghĩa trang liệt sỹ Nhà Bè,Nguyễn Văn Tạo,No,Đang khai thác,106.741308,10.604189,NTnLsNB DdNtlsNB NVT,,72,1,No,False
+3652,HCC 040,xóm Huế,Trụ dừng,Huyện Củ Chi,Xã Tân Thông Hội,457,Quốc lộ 22,No,Đang khai thác,106.49735,10.963449,xH 457 Ql22,,74,1,No,False
+1514,Q9 084,Trạm xăng số 5,Trụ dừng,TP. Thủ Đức - KV2,,365B (Đối diện 27),Lã Xuân Oai,No,Đang khai thác,106.809683,10.819902,Txs5 365B(d27) LXO,141,,1,No,False
+1569,Q11 046,Bãi xe buýt Đầm Sen,Nhà chờ,Quận 11,,7B (Bến xe buýt Đầm Sen),Hòa Bình,No,Đang khai thác,106.639776,10.767929,BxbDS 7B(xbDS HB,,"62, 69",2,No,False
+3936,HBC 401,Phước Hưng,Trụ dừng,Huyện Bình Chánh,Thị trấn Tân Túc,Cột điện T113L (Đối diện điện lực Bình Chánh),Nguyễn Hữu Trí,No,Đang khai thác,106.562882,10.68812,PH CdT(ddlBC NHT,,84,1,No,False
+2467,BX 10,Đường A1 (Phà Cát Lái),Bến xe,TP. Thủ Đức - KV1,,PHÀ CÁT LÁI,Đường A,No,Đang khai thác,106.782669,10.762,DA(CL PCL DA,29,29,2,Yes,False
+4184,Q9 019,Đường 655,Trụ dừng,TP. Thủ Đức - KV2,,Đối diện 665,Đỗ Xuân Hợp,No,Đang khai thác,106.779162,10.800692,D655 Dd665 DXH,,"29, 153",2,No,False
+586,QTD 157,Ngã tư Bình Triệu,Trụ dừng,TP. Thủ Đức - KV3,Phường Hiệp Bình Chánh,599,Phạm Văn Đồng,No,Đang khai thác,106.715848,10.826557,NtBT 599 PVD,,93,1,No,False
+2926,QTP 056,Đầu cầu xéo,Trụ dừng,Quận Tân Phú,,Đối diện 9,Cầu Xéo,No,Đang khai thác,106.624222,10.800399,Dcx Dd9 CX,,41,1,No,False
+256,QTB 099,Cổng trước SVĐ Quân Khu 7,Nhà chờ,Quận Tân Bình,,A2 (Sân vận động Quân khu 7),Phan Đình Giót,No,Đang khai thác,106.66678,10.800848,CtSQK7 A(vdQk7) PDG,4,,1,No,False
+406,QTD 059,Làng Thiếu Niên Thủ Đức,Trụ dừng,TP. Thủ Đức - KV3,,249,Đặng Văn Bi,No,Đang khai thác,106.758698,10.849723,LTNTD 249 DVB,,"6, 29",2,No,False
+3136,HBC 213,Chùa Thiện Phước,Trụ dừng,Huyện Bình Chánh,,E9/251,Quốc lộ 50,No,Đang khai thác,106.654587,10.701768,CTP E Ql50,,47,1,No,False
+3325,QBT 178,Tứ Hưng,Trụ dừng,Quận Bình Tân,,100A,Trần Đại Nghĩa,No,Đang khai thác,106.594301,10.725603,TH 100A TDN,61,,1,No,False
+3191,Q9 047,Cổng Đình,Trụ dừng,TP. Thủ Đức - KV2,,32,Đình Phong Phú,No,Đang khai thác,106.781128,10.843428,CD 32 DPP,,"57, 99",2,No,False
+2929,QBT 263,Bệnh viện Bình Tân,Trụ dừng,Quận Bình Tân,Phường Bình Trị Đông A,Bệnh viện BT,Mã Lò,No,Đang khai thác,106.603798,10.763949,BvBT BvB ML,,41,1,No,False
+373,QBTH 127,Nhà thờ Thị Nghè,Trụ dừng,Quận Bình Thạnh,,79,Xô Viết Nghệ Tĩnh,No,Đang khai thác,106.708054,10.793661,NtTN 79 XVNT,,6,1,No,False
+2562,Q10 084,Hội thánh tin lành Hòa Hưng,Trụ dừng,Quận 10,,601,Cách Mạng Tháng Tám,No,Đang khai thác,106.668684,10.784671,HttlHH 601 CMTT,,65,1,No,False
+3697,Q9 136,phim trường,Trụ dừng,TP. Thủ Đức - KV2,Phường Long Phước,Đối diện 168,Long Thuận,No,Đang khai thác,106.846359,10.81146,pt Dd168 LT,76,88,2,Yes,False
+3897,HBC 308,Đường Kênh 9,Trụ dừng,Huyện Bình Chánh,Xã Bình Lợi,D1/463/1 - cột điện 39p,"Vườn Thơm, Bình Chánh",No,Đang khai thác,106.506336,10.772192,DK9 D-cd39p VTBC,81,,1,No,False
+701,HBC 382,Trịnh Như Khuê,Trụ dừng,Huyện Bình Chánh,Xã An Phú Tây,D10/6B,Quốc lộ 1A,No,Đang khai thác,106.576663,10.670197,TNK D Ql1A,73,9,2,Yes,False
+1659,QGV 133,Đài Liệt sĩ,Trụ dừng,Quận Gò Vấp,,178,Nguyễn Văn Lượng,No,Đang khai thác,106.676366,10.838612,DLs 178 NVL,146,,1,No,False
+3054,QBTH 033,Chùa Bửu Liên,Trụ dừng,Quận Bình Thạnh,,609,Xô Viết Nghệ Tĩnh,No,Đang khai thác,106.713442,10.810862,CBL 609 XVNT,,44,1,No,False
+3653,HCC 045,Trạm Hồng Đào,Trụ dừng,Huyện Củ Chi,Xã Tân Thông Hội,157,Quốc lộ 22,No,Đang khai thác,106.518974,10.950651,THD 157 Ql22,,74,1,No,False
+719,Q6 040,Ngân hàng ACB,Trụ dừng,Quận 6,,871,Hồng Bàng,No,Đang khai thác,106.641245,10.754295,NhA 871 HB,,"9, 81, 84",3,No,False
+725,BX 46,Bến xe Miền Tây,Bến xe,Quận Bình Tân,,Bến xe Miền Tây,Kinh Dương Vương,No,Đang khai thác,106.619438,10.739486,BxMT BxMT KDV,"41, 102, 151","41, 102, 151",6,Yes,False
+908,QTB 058,Bệnh viện Thống Nhất,Nhà chờ,Quận Tân Bình,,1236 (544),Cách Mạng Tháng Tám,No,Đang khai thác,106.653991,10.792649,BvTN 1236( CMTT,"65, 103",,2,No,False
+1143,HNB 021,Đào Tông Nguyên,Trụ dừng,Huyện Nhà Bè,Xã Phú Xuân,23/3,Huỳnh Tấn Phát,No,Đang khai thác,106.746994,10.681985,DTN 23/3 HTP,,20,1,No,False
+3042,LA_2,Hoàng Thái Mart,Ô sơn,Huyện Bình Chánh,,Đối diện 4102 (Đối diện B8/33B6),Quốc lộ 50,No,Đang khai thác,106.658036,10.637843,HTM Dd4102(dB Ql50,47,,1,No,False
+1623,QTP 183,Đỗ Bí,Trụ dừng,Quận Tân Phú,Phường Phú Thạnh,156,Bình Long,No,Đang khai thác,106.62076,10.77887,DB 156 BL,41,,1,No,False
+1040,QTD 171,ĐH Kinh tế Luật,Nhà chờ,TP. Thủ Đức - KV3,Phường Linh Trung,Đối diện 665-CoopXtra,Quốc lộ 1,No,Đang khai thác,106.776724,10.869306,DKtL Dd665-CoopXtra Ql1,93,,1,No,False
+3626,HNB 098,Phạm Hữu Lầu,Nhà chờ,Huyện Nhà Bè,Xã Phước Kiển,Trụ đèn 72,Nguyễn Hữu Thọ,No,Đang khai thác,106.71801,10.69673,PHL Td72 NHT,,72,1,No,False
+2149,HBC 168,Công an Bình Hưng,Trụ dừng,Huyện Bình Chánh,,A6/17,Quốc lộ 50,No,Đang khai thác,106.655971,10.7308,CaBH A Ql50,47,,1,No,False
+1483,QTD 038,Nhà hàng Song Sinh,Trụ dừng,TP. Thủ Đức - KV3,,1101-1103,Tỉnh lộ 43,No,Đang khai thác,106.728734,10.884615,NhSS 1101-1103 Tl43,,141,1,No,False
+2742,QGV 060,Nhà thờ Nữ Vương Hòa Bình,Trụ dừng,Quận Gò Vấp,,1410 (408),Lê Đức Thọ,No,Đang khai thác,106.654528,10.856419,NtNVHB 1410( LDT,103,,1,No,False
+3336,HBC 050,Phòng khám Đa khoa Lê Minh Xuân,Trụ dừng,Huyện Bình Chánh,,Cột điện T176P,Trần Đại Nghĩa,No,Đang khai thác,106.554508,10.736903,PkDkLMX CdT TDN,61,,1,No,False
+2965,QBTH 018,Trung tâm cai nghiện Ma túy,Trụ dừng,Quận Bình Thạnh,,330,Bình Quới,No,Đang khai thác,106.730847,10.822578,TtcnMt 330 BQ,44,,1,No,False
+7814,Q2 113,Đường Đồng Văn Cống,Trụ dừng,TP. Thủ Đức - KV1,Phường An Phú,Cây xanh 760,Mai Chí Thọ,No,Đang khai thác,106.751516,10.789642,DDVC Cx760 MCT,99,,1,No,False
+928,QGV 142,Ngã ba Cây Trâm,Trụ dừng,Quận Gò Vấp,,218-218A,Lê Văn Thọ,No,Đang khai thác,106.657167,10.843506,NbCT 218-218A LVT,103,,1,No,False
+682,HBC 234,Trạm y tế xã Hưng Long,Trụ dừng,Huyện Bình Chánh,,Trạm y tế xã Hưng Long,Hương Lộ 11,No,Đang khai thác,106.616789,10.654008,TytxHL TytxHL HL11,,9,1,No,False
+1793,QBT 090,Công ty Hai Thành,Trụ dừng,Quận Bình Tân,Phường Tân Tạo A,A5/13Q (1054N),Quốc lộ 1A,No,Đang khai thác,106.597519,10.743526,CtHT A( Ql1A,,151,1,No,False
+3412,Q12 146,Chợ An Sương,Trụ dừng,Quận 12,,708 (Trung tâm y tế),Nguyễn Văn Quá,No,Đang khai thác,106.631944,10.84436,CAS 708(tyt NVQ,62,,1,No,False
+3445,QBT 152,Giai Hồng Phát,Trụ dừng,Quận Bình Tân,Phường Tân Tạo,1741 (1749),Tỉnh lộ 10,No,Đang khai thác,106.575447,10.759614,GHP 1741( Tl10,,"73, 81",2,No,False
+3731,HBC 357,Cầu Mỹ Phú,Trụ dừng,Huyện Bình Chánh,,878-A10/17,Nguyễn Cửu Phú,No,Đang khai thác,106.580998,10.71145,CMP 878-A10/17 NCP,73,,1,No,False
+3742,Q9 267,Đường Hoàng Hữu Nam,Trụ dừng,TP. Thủ Đức - KV2,Phường Long Bình,373,Hoàng Hữu Nam,No,Đang khai thác,106.814125,10.871176,DHHN 373 HHN,,"76, 93",2,No,False
+2479,BX77,Chợ nông sản Thủ Đức,Bến xe,TP. Thủ Đức - KV3,,ĐẦU BẾN CHỢ NÔNG SẢN THỦ ĐỨC,Quốc lộ 1,No,Đang khai thác,106.72943115234376,10.868857383728027,CnsTD DBCNSTD Ql1,29,29,2,Yes,False
+864,Q7 087,Nguyễn Lương Bằng,Trụ dừng,Quận 7,Phường Tân Phong,838-840 (388),Nguyễn Văn Linh,No,Đang khai thác,106.712801,10.729419,NLB 838-840( NVL,102,,1,No,False
+3749,Q9 141,Chung Cư C3,Ô sơn,TP. Thủ Đức - KV2,Phường Tăng Nhơn Phú A,152,Man Thiện,No,Đang khai thác,106.791115,10.853095,CCC 152 MT,,76,1,No,False
+1304,HHM 037,Công ty thoát nước đô thị,Trụ dừng,Huyện Hóc Môn,Xã Tân Hiệp,200 (Công ty thoát nước đô thị),Quốc lộ 22,No,Đang khai thác,106.567812,10.911664,Cttndt 200(ttndt Ql22,74,,1,No,False
+3760,Q9 204,Long Thuận-Nguyễn Xiển,Trụ dừng,TP. Thủ Đức - KV2,Phường Long Thạnh Mỹ,25,Nguyễn Xiển,No,Đang khai thác,106.833732,10.815107,LTX 25 NX,,76,1,No,False
+4,Q5 055,Lương Nhữ Học,Trụ dừng,Quận 5,,727,Nguyễn Trãi,No,Đang khai thác,106.660418,10.752962,LNH 727 NT,,1,1,No,False
+703,HBC 384,Văn phòng Ấp 5,Trụ dừng,Huyện Bình Chánh,Xã An Phú Tây,C11/11 (11/10),Quốc lộ 1A,No,Đang khai thác,106.58928,10.681405,VpA5 C( Ql1A,,9,1,No,False
+1249,Q7 078,Ngã 3 Tân Quy,Trụ dừng,Quận 7,Phường Tân Hưng,458B,Nguyễn Hữu Thọ,No,Đang khai thác,106.701708,10.744229,N3TQ 458B NHT,,72,1,No,False
+4110,Q9 254,Đường 61,Trụ dừng,TP. Thủ Đức - KV2,Phường Phước Long B,95-97,Tăng Nhơn Phú,No,Đang khai thác,106.772422,10.828464,D61 95-97 TNP,,99,1,No,False
+252,QPN 049,Trung tâm văn hóa Quận Phú Nhuận,Trụ dừng,Quận Phú Nhuận,,68,Nguyễn Văn Trỗi,No,Đang khai thác,106.676093,10.795421,TtvhQPN 68 NVT,4,,1,No,False
+2104,QGV 186,Ngã Ba Nguyên Hồng,Trụ dừng,Quận Gò Vấp,,497,Lê Quang Định,No,Đang khai thác,106.689091,10.817789,NBNH 497 LQD,,146,1,No,False
+3478,Q3 006,Võ Văn Tần,Trụ dừng,Quận 3,Phường 06,40 - 42,Cách Mạng Tháng Tám,No,Đang khai thác,106.688946,10.774068,VVT 40-42 CMTT,"65, 69",,2,No,False
+2521,QBT 023,Ngân hàng Á Châu,Trụ dừng,Quận Bình Tân,Phường Bình Hưng Hòa,787-745,Lê Trọng Tấn,No,Đang khai thác,106.603043,10.815971,NhAC 787-745 LTT,69,,1,No,False
+4002,Q2 050,Lê Văn Thịnh,Trụ dừng,TP. Thủ Đức - KV1,,396A (400),Nguyễn Duy Trinh,No,Đang khai thác,106.77021,10.788514,LVT 396A( NDT,"29, 88, 153",,3,No,False
+4011,Q9 169,Trường Long Trường,Trụ dừng,TP. Thủ Đức - KV2,,1136 - 1142,Nguyễn Duy Trinh,No,Đang khai thác,106.811668,10.801476,TLT 1136-1142 NDT,88,,1,No,False
+2583,QTP 202,Cây Keo,Trụ dừng,Quận Tân Phú,Phường Hoà Thạnh,260,Lũy Bán Bích,No,Đang khai thác,106.632072,10.771828,CK 260 LBB,"62, 69",,2,No,False
+2136,Q7 017,Nhà sách Nguyễn Văn Cừ,Trụ dừng,Quận 7,Phường Phú Mỹ,1260,Huỳnh Tấn Phát,No,Đang khai thác,106.736732,10.7166,NsNVC 1260 HTP,20,,1,No,False
+2833,Q11 054,Đường Nguyễn Thị Nhỏ,Nhà chờ,Quận 11,,Đối Diện 47,Nguyễn Thị Nhỏ,No,Đang khai thác,106.652672,10.770221,DNTN DD47 NTN,,69,1,No,False
+2185,Q7 037,Trường Nguyễn Hữu Cảnh,Trụ dừng,Quận 7,Phường Tân Thuận Đông,571,Huỳnh Tấn Phát,No,Đang khai thác,106.729796,10.742621,TNHC 571 HTP,,20,1,No,False
+2007,QTP 083,Trường Tiểu Học Tân Quý,Trụ dừng,Quận Tân Phú,Phường Sơn Kỳ,3/1B,Tân Kỳ Tân Quý,No,Đang khai thác,106.616493,10.798385,TTHTQ 3/1B TKTQ,,69,1,No,False
+3310,HBC 135,Cầu Sập,Trụ dừng,Huyện Bình Chánh,,Cột điện 5T (G111/11),Láng Le bàu Cò,No,Đang khai thác,106.550785,10.768651,CS Cd5T( LLbC,,73,1,No,False
+1893,QBT 059,Hương lộ 2,Ô sơn,Quận Bình Tân,,1069,Quốc lộ 1A,No,Đang khai thác,106.591965,10.772055,Hl2 1069 Ql1A,151,,1,No,False
+3379,QTD 142,Phòng khám đa khoa Á Châu,Ô sơn,TP. Thủ Đức - KV3,Phường Linh Tây,1106,Kha Vạn Cân,No,Đang khai thác,106.758965,10.858556,PkdkAC 1106 KVC,93,,1,No,False
+4599,HBC 460,Bùi Thanh Khiết,Trụ dừng,Huyện Bình Chánh,Thị trấn Tân Túc,A12/33A (A12/30),Nguyễn Hữu Trí,No,Đang khai thác,106.57558,10.691889,BTK A( NHT,73,84,2,Yes,False
+3121,HBC 199,Bệnh viện Tâm thần Bình Minh,Trụ dừng,Huyện Bình Chánh,Xã Quy Đức,A11/32A,Quốc lộ 50,No,Đang khai thác,106.656024,10.648282,BvTtBM A Ql50,,47,1,No,False
+3458,QBT 137,Đường số 10,Trụ dừng,Quận Bình Tân,,508,"Tỉnh lộ 10,Tân Tạo, Hồ Chí Minh, Việt Nam",No,Đang khai thác,106.618415,10.757494,"Ds10 508 Tl10,TanTHCMVN",81,,1,No,False
+412,QTD 082,Ngã 4 Tây Hòa (RMK),Nhà chờ,TP. Thủ Đức - KV3,Phường Trường Thọ,Nhà máy thép Thủ Đức,Võ Nguyên Giáp,No,Đang khai thác,106.759998,10.825366,N4TH( NmtTD VNG,,"6, 99",2,No,False
+3331,HBC 045,Công ty Robot 2,Ô sơn,Huyện Bình Chánh,,Cột điện T119 (Đối diện A7/17M),Trần Đại Nghĩa,No,Đang khai thác,106.57191,10.731706,CtR2 CdT(dA TDN,61,,1,No,False
+3347,HBC 069,Đường sô 10,Ô sơn,Huyện Bình Chánh,Xã Lê Minh Xuân,Cột điện T227T (Trụ điện T TĐN 154),Trần Đại Nghĩa,No,Đang khai thác,106.547062,10.740271,Ds10 CdT(dTT154) TDN,,61,1,No,False
+418,Q2 078,Cầu Đen,Nhà chờ,TP. Thủ Đức - KV1,Phường Thảo Điền,Đối diện Cầu Đen,Võ Nguyên Giáp,No,Đang khai thác,106.73436,10.800451,CD DdCD VNG,,6,1,No,False
+3737,QBT 174,Nghĩa trang An Vĩnh,Nhà chờ,Quận Bình Tân,,Đối diện 4379,Nguyễn Cửu Phú,No,Đang khai thác,106.58405,10.743797,NtAV Dd4379 NCP,73,,1,No,False
+2270,HHM 031,Dân Thắng,Trụ dừng,Huyện Hóc Môn,Xã Tân Thới Nhì,kế 8/5,Quốc lộ 22,No,Đang khai thác,106.583878,10.888708,DT k8/5 Ql22,74,,1,No,False
+60,QGV 187 ,Cầu vượt ngã sáu Gò Vấp,Trụ dừng,Quận Gò Vấp,,140-142,Phạm Ngũ Lão ,No,Đang khai thác,106.681221,10.824607,CvnsGV 140-142 PNL,103,,1,No,False
+1392,QTB 083,Ngã ba Hoàng Hoa Thám,Trụ dừng,Quận Tân Bình,,233,Trường Chinh,No,Đang khai thác,106.646218,10.796606,NbHHT 233 TC,,65,1,No,False
+855,Q4 027,Bưu Điện Quận 4,Trụ dừng,Quận 4,,136-138,Nguyễn Tất Thành,No,Đang khai thác,106.70763,10.76385,BDQ4 136-138 NTT,"20, 102",,2,No,False
+3913,HBC 322,Kênh 6,Trụ dừng,Huyện Bình Chánh,Xã Bình Lợi,Đối diện C9/363,"Vườn Thơm, Bình Chánh",No,Đang khai thác,106.498107,10.765689,K6 DdC VTBC,,81,1,No,False
+918,QTB 159,Ngã tư Hồng Hà,Trụ dừng,Quận Tân Bình,,122/21,Bạch Đằng,No,Đang khai thác,106.669076,10.814285,NtHH 122/21 BD,,103,1,No,False
+2927,QTP 051,Chung cư  Gò Dầu,Ô sơn,Quận Tân Phú,Phường Tân Qúy,65-67,Gò Dầu,No,Đang khai thác,106.628082,10.795624,CcGD 65-67 GD,,41,1,No,False
+1809,QBT 256,Bệnh viện Đa khoa Bình Tân,Trụ dừng,Quận Bình Tân,Phường Bình Trị Đông A,167 ,Lê Văn Qưới,No,Đang khai thác,106.613216,10.776023,BvDkBT 167 LVQ,41,,1,No,False
+3633,HNB 103,Hoàng Anh Gia Lai 3,Ô sơn,Huyện Nhà Bè,Xã Phước Kiển,Đối diện Hoàng Anh Gia Lai 3,Nguyễn Hữu Thọ,No,Đang khai thác,106.701981,10.719842,HAGL3 DdHAGL3 NHT,,72,1,No,False
+4061,Q2 061,Nhà thiếu nhi Quận 2,Trụ dừng,TP. Thủ Đức - KV1,,201,Nguyễn Duy Trinh,No,Đang khai thác,106.761909,10.787904,NtnQ2 201 NDT,,"88, 153",2,No,False
+3438,HBC 290,Hoàng My,Trụ dừng,Huyện Bình Chánh,Xã Lê Minh Xuân,Đối diện 3A13,Tỉnh lộ 10 Bình Chánh,No,Đang khai thác,106.527101,10.782816,HM Dd3A13 Tl10BC,,81,1,No,False
+396,QTD 174,ĐH Nông Lâm,Trụ dừng,TP. Thủ Đức - KV3,Phường Linh Trung,1026/2 (1030),Quốc lộ 1,No,Đang khai thác,106.790283,10.866912,DNL 1026/2( Ql1,93,6,2,Yes,False
+2381,QBT 157,Ngã 4 Bà Hom,Trụ dừng,Quận Bình Tân,,1209,"Tỉnh lộ 10,Tân Tạo, Hồ Chí Minh, Việt Nam",No,Đang khai thác,106.594656,10.755692,"N4BH 1209 Tl10,TanTHCMVN",,81,1,No,False
+883,HBC 016,Cầu Cần Giuộc,Trụ dừng,Huyện Bình Chánh,,Cột đèn 249,Nguyễn Văn Linh,No,Đang khai thác,106.61828,10.696855,CCG Cd249 NVL,102,,1,No,False
+4147,HCC 054,Công ty Fujifilm,Trụ dừng,Huyện Củ Chi,Xã Tân Phú Trung,Cty Fujifilm,Quốc lộ 22,No,Đang khai thác,106.559333,10.923317,CtF CF Ql22,,74,1,No,False
+1411,Q10 029,Chợ Phường 10,Trụ dừng,Quận 10,,430,Lý Thái Tổ,No,Đang khai thác,106.673051,10.767865,CP10 430 LTT,69,,1,No,False
+3906,HBC 317,Trầm lầy 1,Trụ dừng,Huyện Bình Chánh,Xã Bình Lợi,Đối diện C3/79,"Vườn Thơm, Bình Chánh",No,Đang khai thác,106.477776,10.750131,Tl1 DdC VTBC,,81,1,No,False
+1150,HNB 027,Công An Thị Trấn Nhà Bè,Trụ dừng,Huyện Nhà Bè,Thị trấn Nhà Bè,2049,Huỳnh Tấn Phát,No,Đang khai thác,106.740026,10.695332,CATTNB 2049 HTP,,20,1,No,False
+3321,QBT 177,Trần Đại Nghĩa,Ô sơn,Quận Bình Tân,,16,Trần Đại Nghĩa,No,Đang khai thác,106.599961,10.722604,TDN 16 TDN,61,,1,No,False
+1399,Q10 086,Chùa Bửu Đà,Trụ dừng,Quận 10,,427,Cách Mạng Tháng Tám,No,Đang khai thác,106.675063,10.78124,CBD 427 CMTT,,65,1,No,False
+1119,HNB 059,Chùa Phước Linh,Trụ dừng,Huyện Nhà Bè,,1095,Nguyễn Văn Tạo,No,Đang khai thác,106.740074,10.610005,CPL 1095 NVT,,72,1,No,False
+140,QBT 010,Kinh Dương Vương,Trụ dừng,Quận Bình Tân,Phường An Lạc,7,Kinh Dương Vương,No,Đang khai thác,106.623162,10.744919,KDV 7 KDV,,"9, 61, 84",3,No,False
+4111,Q9 272,Trạm đầu Nam Cao,Ô sơn,TP. Thủ Đức - KV2,,157,Nam Cao,No,Đang khai thác,106.8032,10.85574,TdNC 157 NC,99,,1,No,False
+1027,Q11 037,Chợ Lãnh Binh Thăng,Trụ dừng,Quận 11,,308-310,Lãnh Binh Thăng,No,Đang khai thác,106.646926,10.76512,CLBT 308-310 LBT,62,,1,No,False
+1078,HNB 112,Vòng xoay Long Thới,Trụ dừng,Huyện Nhà Bè,,74,Nguyễn Văn Tạo,No,Đang khai thác,106.724791,10.667366,VxLT 74 NVT,72,,1,No,False
+873,HBC 001,Trung Sơn,Trụ dừng,Huyện Bình Chánh,,12-14,Nguyễn Văn Linh,No,Đang khai thác,106.687117,10.728639,TS 12-14 NVL,102,,1,No,False
+3032,HBC 185,Ngã 3 đường 3S,Trụ dừng,Huyện Bình Chánh,,E7/194,Quốc lộ 50,No,Đang khai thác,106.650853,10.673592,N3d3S E Ql50,47,,1,No,False
+2961,QBTH 014,Chung cư Thanh Đa,Nhà chờ,Quận Bình Thạnh,,0011 Lô A,Bình Quới,No,Đang khai thác,106.720762,10.817109,CcTD 0011LA BQ,44,,1,No,False
+638,HBC 364,Dương Đình Cúc,Trụ dừng,Huyện Bình Chánh,Xã Tân Kiên,C3/4,Quốc lộ 1A,No,Đang khai thác,106.598089,10.70706,DDC C Ql1A,"9, 84",102,3,Yes,False
+3933,BX 88,Tân Túc,Bến xe,Huyện Bình Chánh,,Điểm Đầu - Cuối Tân Túc,Nguyễn Hữu Trí,No,Đang khai thác,106.551528,10.684682,TT DD-CTT NHT,84,84,2,Yes,False
+2725,Q1 109,Sở Tài nguyên Môi trường,Nhà chờ,Quận 1,Phường Bến Nghé,63,Lý Tự Trọng,No,Đang khai thác,106.700386,10.777108,STnMt 63 LTT,44,,1,No,False
+4196,Q9 033,UBND phường Phước Long B,Trụ dừng,TP. Thủ Đức - KV2,,203 - 205,Đỗ Xuân Hợp,No,Đang khai thác,106.769042,10.82574,UpPLB 203-205 DXH,"29, 99",,2,No,False
+3023,HBC 176,Mầm non Anh Việt,Trụ dừng,Huyện Bình Chánh,,E11/307,Quốc lộ 50,No,Không có,106.655359,10.708388,MnAV E Ql50,47,,1,No,False
+129,Q5 085,Trần Bình Trọng,Trụ dừng,Quận 5,,560(564),Trần Hưng Đạo,No,Đang khai thác,106.679794,10.755064,TBT 560(564) THD,1,,1,No,False
+821,HBC 032,Cầu Bà Lớn,Trụ dừng,Huyện Bình Chánh,,Cột điện T186P (Cột điện 175),Nguyễn Văn Linh,No,Đang khai thác,106.645961,10.711382,CBL CdT(d175) NVL,,102,1,No,False
+658,HBC 252,Chợ Hưng Long,Trụ dừng,Huyện Bình Chánh,,D16/34 - D16/39,Hương Lộ 11,No,Đang khai thác,106.606822,10.658847,CHL D-D HL11,9,,1,No,False
+3028,HBC 181,Trịnh Quang Nghị,Trụ dừng,Huyện Bình Chánh,,D10/281,Quốc lộ 50,No,Đang khai thác,106.654946,10.692511,TQN D Ql50,47,,1,No,False
+1654,QBTH 118,Chợ Phan Văn Trị,Trụ dừng,Quận Bình Thạnh,,186B,Phan Văn Trị,No,Đang khai thác,106.695335,10.812493,CPVT 186B PVT,161,,1,No,False
+3707,Q9 120,Trường Mầm non,Trụ dừng,TP. Thủ Đức - KV2,,Trường mầm non Trường Thạnh,Lò Lu,No,Đang khai thác,106.816083,10.826093,TMn TmnTT LL,76,,1,No,False
+848,Q4 031,Cảng Sài Gòn,Nhà chờ,Quận 4,,Đối diện 466,Nguyễn Tất Thành,No,Đang khai thác,106.7155,10.758443,CSG Dd466 NTT,,"20, 102",2,No,False
+1006,Q10 090,Trường THPT Nguyễn Du,Trụ dừng,Quận 10,,XX1,Đồng Nai,No,Đang khai thác,106.662399,10.779224,TTND X DN,,103,1,No,False
+812,HBC 023,đường Ấp 2,Trụ dừng,Huyện Bình Chánh,,Cột điện T28P (Cột điện 332),Nguyễn Văn Linh,No,Đang khai thác,106.602321,10.69152,dA2 CdT(d332) NVL,,102,1,No,False
+676,HBC 228,Hốc Hưu,Ô sơn,Huyện Bình Chánh,Xã Quy Đức,B6A/15 (B1/6/15),Hương Lộ 11,No,Đang khai thác,106.636085,10.643933,HH B( HL11,,9,1,No,False
+2183,Q7 033,Phú Thuận,Trụ dừng,Quận 7,Phường Phú Thuận,853,Huỳnh Tấn Phát,No,Đang khai thác,106.731834,10.731727,PT 853 HTP,,20,1,No,False
+1888,QBT 063,Tân Kỳ Tân Quý,Ô sơn,Quận Bình Tân,Phường Bình Hưng Hoà A,813,Quốc lộ 1A,No,Đang khai thác,106.595519,10.788855,TKTQ 813 Ql1A,151,,1,No,False
+2984,Q2 013,Đình Bình Khánh,Trụ dừng,TP. Thủ Đức - KV1,,16/2,Lương Định Của,No,Đang khai thác,106.73295,10.78709,DBK 16/2 LDC,,88,1,No,False
+1556,QTD 034,Khu Công nghiệp Đồng an,Ô sơn,TP. Thủ Đức - KV3,,7/2,Tỉnh lộ 43,No,Đang khai thác,106.721674,10.893744,KCnDa 7/2 Tl43,141,,1,No,False
+813,HBC 022,Nguyễn Văn Linh,Trụ dừng,Huyện Bình Chánh,,Cột điện K-NVL T1P(Cột điện 358),Nguyễn Văn Linh,No,Đang khai thác,106.595943,10.689686,NVL CdKTd358) NVL,,102,1,No,False
+1855,QBT 042,Hẻm Sinco Hồ Ngọc Lãm,Trụ dừng,Quận Bình Tân,,E4/39,Hồ Học Lãm,No,Đang khai thác,106.603302,10.734642,HSHNL E HHL,151,,1,No,False
+3692,BX26,Hẻm 813 Long Phước,Bến xe,TP. Thủ Đức - KV2,,ĐẦU BẾN HẺM 813 LONG PHƯỚC,Long Thuận,No,Đang khai thác,106.860107,10.789044,H813LP DBH813LP LT,76,76,2,Yes,False
+1901,Q12 091,Qua ngã tư Bà Điểm,Trụ dừng,Quận 12,,2879,Quốc lộ 1A,No,Đang khai thác,106.607616,10.834981,QntBD 2879 Ql1A,151,,1,No,False
+275,Q12 132,Chùa Lạc Quang,Nhà chờ,Quận 12,,408,Trường Chinh,No,Đang khai thác,106.620614,10.834781,CLQ 408 TC,"4, 41, 65",,3,No,False
+3720,BX 57,Chợ Bình Chánh,Bến xe,Huyện Bình Chánh,,ĐẦU BẾN CHỢ BÌNH CHÁNH,Quốc lộ 1A,No,Đang khai thác,106.571535,10.665484,CBC DBCBC Ql1A,73,73,2,Yes,False
+2425,QTB 052,Chợ Võ Thành Trang,Trụ dừng,Quận Tân Bình,,988-990,Âu Cơ,No,Đang khai thác,106.637576,10.798709,CVTT 988-990 AC,62,,1,No,False
+1144,HNB 023,Ngân hàng Agribank,Nhà chờ,Huyện Nhà Bè,Thị trấn Nhà Bè,18,Huỳnh Tấn Phát,No,Đang khai thác,106.743202,10.687393,NhA 18 HTP,,20,1,No,False
+3722,HBC 072,Pomina Bắc Việt,Ô sơn,Huyện Bình Chánh,,C4/20C,Bùi Thanh Khiết,No,Đang khai thác,106.580215,10.675052,PBV C BTK,73,,1,No,False
+3103,QTP 067,Công Ty bánh Givral,Trụ dừng,Quận Tân Phú,Phường Tây Thạnh,592,Lê Trọng Tấn,No,Đang khai thác,106.609673,10.812114,CTbG 592 LTT,69,,1,No,False
+1120,HNB 057,Giáo xứ Tin Mừng,Trụ dừng,Huyện Nhà Bè,,Kế 919 (1733),Nguyễn Văn Tạo,No,Đang khai thác,106.738159,10.622153,GxTM K919( NVT,,72,1,No,False
+505,Q10 054,Bệnh viện Trưng Vương,Trụ dừng,Quận 10,,BV Trưng Vương,Lý Thường Kiệt,No,Đang khai thác,106.658524,10.769652,BvTV BTV LTK,103,,1,No,False
+1806,QBT 259,Ngã 3 Lê Văn Quới,Trụ dừng,Quận Bình Tân,Phường Bình Trị Đông A,527,Lê Văn Qưới,No,Đang khai thác,106.602799,10.776324,N3LVQ 527 LVQ,41,,1,No,False
+520,QBTH 008,Chùa Bồ Đề,Trụ dừng,Quận Bình Thạnh,,375,Bạch Đằng,No,Đang khai thác,106.703988,10.803293,CBD 375 BD,,146,1,No,False
+2777,Q12 080,Trạm điện Hóc Môn,Trụ dừng,Quận 12,,1956,Quốc lộ 1A,No,Đang khai thác,106.640918,10.857668,TdHM 1956 Ql1A,,62,1,No,False
+1796,QBT 044,Ngã tư An Lạc,Trụ dừng,Quận Bình Tân,Phường An Lạc,551,Hồ Học Lãm,No,Đang khai thác,106.606819,10.728676,NtAL 551 HHL,,151,1,No,False
+2662,QTP 097,Tiệm cửa sắt,Trụ dừng,Quận Tân Phú,Phường Tân Qúy,156,Tân Quý,No,Đang khai thác,106.620468,10.792974,Tcs 156 TQ,,69,1,No,False
+1491,QTD 049,Chợ Tam Hà,Biển treo,TP. Thủ Đức - KV3,,351-353,Tô Ngọc Vân,No,Đang khai thác,106.747761,10.859586,CTH 351-353 TNV,,141,1,No,False
+3999,Q9 178,Công ty Thành Công,Trụ dừng,TP. Thủ Đức - KV2,,Đối diện 763,Nguyễn Duy Trinh,No,Đang khai thác,106.784744,10.790518,CtTC Dd763 NDT,88,,1,No,False
+22,Q1 132,Tổng Cty Samco,Nhà chờ,Quận 1,,393 bis,Trần Hưng Đạo,No,Đang khai thác,106.688254,10.759734,TCS 393b THD,,1,1,No,False
+3748,Q9 144,Ngã 3 Lê Văn Việt,Trụ dừng,TP. Thủ Đức - KV2,Phường Tăng Nhơn Phú A,28A,Man Thiện,No,Đang khai thác,106.786761,10.846004,N3LVV 28A MT,,76,1,No,False
+2420,QTB 049,Chợ Bàu Cát,Trụ dừng,Quận Tân Bình,,794,Âu Cơ,No,Đang khai thác,106.640221,10.790294,CBC 794 AC,62,,1,No,False
+907,QTB 055,Ngã ba Bành Văn Trân,Biển treo,Quận Tân Bình,,814,Cách Mạng Tháng Tám,No,Đang khai thác,106.661453,10.788692,NbBVT 814 CMTT,"65, 103",,2,No,False
+690,HBC 242,Đình Phước Bình,Trụ dừng,Huyện Bình Chánh,,12/11C,Hương Lộ 11,No,Đang khai thác,106.591721,10.658599,DPB 12/11C HL11,,9,1,No,False
+3304,HBC 129,Trường mầm non Thiên Ân,Trụ dừng,Huyện Bình Chánh,,Cột điện 60T (G15/25),Láng Le bàu Cò,No,Đang khai thác,106.540877,10.748745,TmnTA Cd60T( LLbC,,73,1,No,False
+2651,QTP 019,Cây xăng Tây Thạnh,Trụ dừng,Quận Tân Phú,,Công ty Ngọc Nghĩa,Tây Thạnh,No,Đang khai thác,106.625587,10.816451,CxTT CtNN TT,,41,1,No,False
+977,Q12 074,Cơ khí Minh Huy,Trụ dừng,Quận 12,,1218/11,Quốc lộ 1A,No,Đang khai thác,106.661389,10.861819,CkMH 1218/11 Ql1A,146,103,2,Yes,False
+1308,HCC 012,Công ty Sài Gòn Cáp,Trụ dừng,Huyện Củ Chi,Xã Tân Thông Hội,270,Quốc lộ 22,No,Đang khai thác,106.509834,10.95705,CtSGC 270 Ql22,74,,1,No,False
+3059,QBTH 084,Trường Trung học cơ sở Phú Mỹ,Nhà chờ,Quận Bình Thạnh,,010 Lô A,Ngô Tất Tố,No,Đang khai thác,106.712587,10.792433,TThcsPM 010LA NTT,,44,1,No,False
+877,HBC 005,Cầu Xóm Củi,Trụ dừng,Huyện Bình Chánh,,Cột điện  T NVL 13T,Nguyễn Văn Linh,No,Đang khai thác,106.667193,10.726741,CXC CdTN13T NVL,102,,1,No,False
+2654,QTP 074,Trường Đại học Công Nghiệp Thực Phẩm,Ô sơn,Quận Tân Phú,Phường Sơn Kỳ,117,Lê Trọng Tấn,No,Đang khai thác,106.628671,10.805859,TDhCNTP 117 LTT,,"41, 69",2,No,False
+887,HBC 015,Cầu sập,Trụ dừng,Huyện Bình Chánh,,Cột đèn 232,Nguyễn Văn Linh,No,Đang khai thác,106.627235,10.69925,Cs Cd232 NVL,102,,1,No,False
+3408,Q12 143,Nhà hàng Đông Phương,Trụ dừng,Quận 12,,344,Nguyễn Văn Quá,No,Đang khai thác,106.628999,10.835909,NhDP 344 NVQ,62,,1,No,False
+262,QTB 113,Công ty Lô Hội,Trụ dừng,Quận Tân Bình,,184,Cộng Hòa,No,Đang khai thác,106.651127,10.801728,CtLH 184 CH,4,,1,No,False
+489,QTD 056,Công ty may Sài Gòn,Trụ dừng,TP. Thủ Đức - KV3,Phường Bình Thọ,Đối diện 139A,Đặng Văn Bi,No,Đang khai thác,106.762466,10.843897,CtmSG Dd139A DVB,"6, 29",,2,No,False
+4015,Q9  162,Ngã 3 Tam Đa,Trụ dừng,TP. Thủ Đức - KV2,,1565,Nguyễn Duy Trinh,No,Đang khai thác,106.826511,10.807756,N3TD 1565 NDT,,88,1,No,False
+1791,QBT 087,Nhà sách Tân Tạo,Trụ dừng,Quận Bình Tân,Phường Tân Tạo,1024,Quốc lộ 1A,No,Đang khai thác,106.591492,10.758026,NsTT 1024 Ql1A,,151,1,No,False
+403,QTD 067,Nhà thiếu nhi Thủ Đức,Nhà chờ,TP. Thủ Đức - KV3,Phường Linh Chiểu,Nhà thiếu nhi,Võ Văn Ngân,No,Đang khai thác,106.766794,10.850556,NtnTD Ntn VVN,"57, 141",6,3,Yes,False
+6,Q5 059,Ngô Quyền,Trụ dừng,Quận 5,,593,Nguyễn Trãi,No,Đang khai thác,106.666882,10.754,NQ 593 NT,,1,1,No,False
+4050,Q9 158,Cầu Huyện Thanh,Trụ dừng,TP. Thủ Đức - KV2,,180A (Kế 981C),Nguyễn Duy Trinh,No,Đang khai thác,106.804233,10.792222,CHT 180A(981C) NDT,,88,1,No,False
+3572,QTP 045,Minh Tâm,Ô sơn,Quận Tân Phú,,221-223,Vườn Lài,No,Đang khai thác,106.62928,10.788038,MT 221-223 VL,,69,1,No,False
+618,Q8 069,Chùa Pháp Quang,Trụ dừng,Quận 8,,94,Quốc lộ 50,No,Đang khai thác,106.656142,10.738642,CPQ 94 Ql50,47,62,2,Yes,False
+3784,HBC 348,Chùa Pháp Bảo,Trụ dừng,Huyện Bình Chánh,,Cột điện T120T (kế 1317),Nguyễn Cửu Phú,No,Đang khai thác,106.581341,10.723652,CPB CdT(1317) NCP,,73,1,No,False
+715,Q6 049,Hồ Bơi Phú Lâm,Trụ dừng,Quận 6,,157 ,Kinh Dương Vương,No,Đang khai thác,106.627963,10.748914,HBPL 157 KDV,,"9, 84",2,No,False
+997,QTB 013,Siêu thị Super Bow,Nhà chờ,Quận Tân Bình,,Siêu thị super Bow,Trường Sơn,No,Đang khai thác,106.66449,10.808049,StSB StsB TS,,103,1,No,False
+4158,HBC 224,Phạm Tấn Mười,Ô sơn,Huyện Bình Chánh,Xã Quy Đức,D1/14 (Kế 1/30B),Hương Lộ 11,No,Đang khai thác,106.650649,10.636067,PTM D(1/30B) HL11,47,,1,No,False
+3377,Q9 101,Công Ty FILIED,Ô sơn,TP. Thủ Đức - KV2,Phường Long Thạnh Mỹ,Đối diện công ty Filied,Lê Văn Việt,No,Đang khai thác,106.807355,10.848738,CTF DdctF LVV,,99,1,No,False
+3734,HBC 361,Miểu bà Ngũ hành,Trụ dừng,Huyện Bình Chánh,,1564 (A1/4),Nguyễn Cửu Phú,No,Đang khai thác,106.581427,10.730705,MbNh 1564( NCP,73,,1,No,False
+3442,HBC 299,Công ty Chấn Hưng,Trụ dừng,Huyện Bình Chánh,Xã Lê Minh Xuân,F5/6,Tỉnh lộ 10 Bình Chánh,No,Đang khai thác,106.545657,10.773462,CtCH F Tl10BC,,81,1,No,False
+1890,Q3 064,Chợ Bàn Cờ,Biển treo,Quận 3,,678 - 680,Nguyễn Đình Chiểu,No,Đang khai thác,106.680359,10.768289,CBC 678-680 NDC,69,,1,No,False
+1363,Q7 024,Chùa Pháp Hoa,Trụ dừng,Quận 7,Phường Phú Mỹ,Đối diện 1442 (1611),Huỳnh Tấn Phát,No,Đang khai thác,106.737381,10.708926,CPH Dd1442( HTP,,20,1,No,False
