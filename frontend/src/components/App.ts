@@ -4,7 +4,7 @@
 
 import { BusHappyAPI, GeocodingService } from '@services/api.service';
 import { MapService } from '@services/map.service';
-import type { BusStop, PlannedRoute, Location, AppState, SelectedPoint } from '@types/index';
+import type { BusStop, PlannedRoute, Location, AppState, SelectedPoint } from '../types';
 import { CONFIG, MESSAGES, ICONS } from '@utils/constants';
 import '@styles/main.css';
 

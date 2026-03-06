@@ -1,4 +1,6 @@
 # Environment variables (use .env files instead)
+.env
+.env.production
 .env.local
 .env.*.local
 

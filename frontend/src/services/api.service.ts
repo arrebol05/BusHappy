@@ -9,7 +9,7 @@ import type {
     RouteDetails,
     RoutePlanResult,
     GeocodingResult
-} from '@types/index';
+} from '../types';
 import { CONFIG } from '@utils/constants';
 
 interface NearbyStopsResponse {

@@ -4,7 +4,7 @@
 
 import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
-import type { BusStop, Location, PlannedRoute } from '@types/index';
+import type { BusStop, Location, PlannedRoute } from '../types';
 import { CONFIG } from '@utils/constants';
 
 // Fix Leaflet default marker icon issue with Webpack
