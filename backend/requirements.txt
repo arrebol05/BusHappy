@@ -2,11 +2,11 @@ Flask==3.0.0
 flask-cors==4.0.0
 pandas>=2.0.0,<2.3.0
 numpy>=1.24.0,<2.0.0
-tqdm==4.66.1
-requests==2.31.0
-beautifulsoup4==4.12.2
-lxml==4.9.3
-gunicorn==21.2.0
+tqdm>=4.66.0
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=5.0.0
+gunicorn>=21.2.0
 
 # Optional GPU acceleration (install only if you have CUDA-compatible GPU)
 # cupy-cuda11x  # For CUDA 11.x
