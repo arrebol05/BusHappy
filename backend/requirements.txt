@@ -6,6 +6,7 @@ tqdm==4.66.1
 requests==2.31.0
 beautifulsoup4==4.12.2
 lxml==4.9.3
+gunicorn==21.2.0
 
 # Optional GPU acceleration (install only if you have CUDA-compatible GPU)
 # cupy-cuda11x  # For CUDA 11.x
