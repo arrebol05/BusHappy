@@ -45,7 +45,7 @@ git push origin main
 ### Bước 3: Cấu hình Environment Variables
 Thêm các biến môi trường:
 - `BUSHAPPY_ENV` = `production` (hoặc `sandbox` để test)
-- `PYTHON_VERSION` = `3.11.0`
+- `PYTHON_VERSION` = `3.11.7` (quan trọng: pandas yêu cầu Python <= 3.12)
 
 ### Bước 4: Chọn Plan
 - **Free Plan:** 750 giờ/tháng, auto-sleep sau 15 phút không dùng
